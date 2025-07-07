@@ -1,0 +1,4787 @@
+Location,Year,Month,Rainfall
+Adelaide,2008,7,72.2
+Adelaide,2008,8,84.8
+Adelaide,2008,9,16.0
+Adelaide,2008,10,8.0
+Adelaide,2008,11,13.8
+Adelaide,2008,12,40.400000000000006
+Adelaide,2009,1,1.2
+Adelaide,2009,2,0.8
+Adelaide,2009,3,21.4
+Adelaide,2009,4,73.60000000000001
+Adelaide,2009,5,63.0
+Adelaide,2009,6,52.0
+Adelaide,2009,7,109.0
+Adelaide,2009,8,55.800000000000004
+Adelaide,2009,9,61.599999999999994
+Adelaide,2009,10,18.400000000000002
+Adelaide,2009,11,42.2
+Adelaide,2009,12,18.2
+Adelaide,2010,1,9.2
+Adelaide,2010,2,5.6
+Adelaide,2010,3,19.0
+Adelaide,2010,4,49.6
+Adelaide,2010,5,56.8
+Adelaide,2010,6,65.8
+Adelaide,2010,7,59.800000000000004
+Adelaide,2010,8,115.2
+Adelaide,2010,9,72.2
+Adelaide,2010,10,29.2
+Adelaide,2010,11,23.2
+Adelaide,2010,12,87.0
+Adelaide,2011,1,17.4
+Adelaide,2011,2,43.199999999999996
+Adelaide,2011,3,81.8
+Adelaide,2011,5,61.8
+Adelaide,2011,6,37.199999999999996
+Adelaide,2011,7,61.4
+Adelaide,2011,8,92.4
+Adelaide,2011,9,46.8
+Adelaide,2011,10,42.599999999999994
+Adelaide,2011,11,25.2
+Adelaide,2011,12,18.2
+Adelaide,2012,1,18.0
+Adelaide,2012,2,25.0
+Adelaide,2012,3,64.2
+Adelaide,2012,4,27.0
+Adelaide,2012,5,62.400000000000006
+Adelaide,2012,6,126.4
+Adelaide,2012,7,66.2
+Adelaide,2012,8,68.0
+Adelaide,2012,9,21.8
+Adelaide,2012,10,20.0
+Adelaide,2012,11,17.4
+Adelaide,2013,1,11.6
+Adelaide,2013,3,19.6
+Adelaide,2013,4,33.2
+Adelaide,2013,5,54.8
+Adelaide,2013,6,76.39999999999999
+Adelaide,2013,7,119.2
+Adelaide,2013,8,84.4
+Adelaide,2013,9,42.6
+Adelaide,2013,10,32.4
+Adelaide,2013,11,5.2
+Adelaide,2013,12,16.2
+Adelaide,2014,1,10.2
+Adelaide,2014,2,98.2
+Adelaide,2014,3,19.0
+Adelaide,2014,4,50.6
+Adelaide,2014,5,64.39999999999999
+Adelaide,2014,6,104.2
+Adelaide,2014,7,99.6
+Adelaide,2014,8,20.8
+Adelaide,2014,9,31.4
+Adelaide,2014,10,5.0
+Adelaide,2014,11,24.4
+Adelaide,2014,12,6.4
+Adelaide,2015,1,41.6
+Adelaide,2015,2,0.6
+Adelaide,2015,3,2.4
+Adelaide,2015,4,57.400000000000006
+Adelaide,2015,5,71.8
+Adelaide,2015,6,15.4
+Adelaide,2015,7,73.6
+Adelaide,2015,8,48.4
+Adelaide,2015,9,52.2
+Adelaide,2015,10,9.0
+Adelaide,2015,11,9.8
+Adelaide,2015,12,13.0
+Adelaide,2016,1,52.800000000000004
+Adelaide,2016,2,18.4
+Adelaide,2016,3,53.800000000000004
+Adelaide,2016,4,9.6
+Adelaide,2016,5,88.0
+Adelaide,2016,6,95.2
+Adelaide,2016,7,112.0
+Adelaide,2016,8,58.8
+Adelaide,2016,9,131.2
+Adelaide,2016,10,81.0
+Adelaide,2016,11,33.199999999999996
+Adelaide,2016,12,86.8
+Adelaide,2017,1,47.2
+Adelaide,2017,2,33.4
+Adelaide,2017,3,39.400000000000006
+Adelaide,2017,4,33.2
+Adelaide,2017,5,51.2
+Adelaide,2017,6,1.9999999999999998
+Albany,2008,12,29.2
+Albany,2009,1,15.399999999999999
+Albany,2009,2,15.4
+Albany,2009,3,49.4
+Albany,2009,4,25.2
+Albany,2009,5,72.2
+Albany,2009,6,221.2
+Albany,2009,7,140.4
+Albany,2009,8,120.0
+Albany,2009,9,171.0
+Albany,2009,10,55.0
+Albany,2009,11,29.0
+Albany,2009,12,5.0
+Albany,2010,1,17.2
+Albany,2010,2,10.600000000000001
+Albany,2010,3,39.2
+Albany,2010,4,79.8
+Albany,2010,5,50.8
+Albany,2010,6,108.0
+Albany,2010,7,157.2
+Albany,2010,8,82.4
+Albany,2010,9,55.4
+Albany,2010,10,61.2
+Albany,2010,11,46.2
+Albany,2010,12,34.2
+Albany,2011,1,82.30000000000001
+Albany,2011,2,18.5
+Albany,2011,3,11.6
+Albany,2011,5,86.5
+Albany,2011,6,123.2
+Albany,2011,7,145.7
+Albany,2011,8,150.8
+Albany,2011,9,90.0
+Albany,2011,10,50.800000000000004
+Albany,2011,11,76.6
+Albany,2011,12,60.0
+Albany,2012,1,12.600000000000001
+Albany,2012,2,8.2
+Albany,2012,3,12.4
+Albany,2012,4,58.099999999999994
+Albany,2012,5,92.5
+Albany,2012,6,218.0
+Albany,2012,7,80.6
+Albany,2012,8,101.4
+Albany,2012,9,148.20000000000002
+Albany,2012,10,32.6
+Albany,2012,11,95.69999999999999
+Albany,2013,1,30.6
+Albany,2013,3,86.0
+Albany,2013,4,62.8
+Albany,2013,5,97.5
+Albany,2013,6,63.8
+Albany,2013,7,95.2
+Albany,2013,8,203.8
+Albany,2013,9,174.6
+Albany,2013,10,54.6
+Albany,2013,11,35.8
+Albany,2013,12,51.1
+Albany,2014,1,3.1999999999999997
+Albany,2014,2,7.0
+Albany,2014,3,21.200000000000003
+Albany,2014,4,33.0
+Albany,2014,5,87.3
+Albany,2014,6,77.8
+Albany,2014,7,121.0
+Albany,2014,8,59.8
+Albany,2014,9,67.7
+Albany,2014,10,115.1
+Albany,2014,11,44.5
+Albany,2014,12,11.0
+Albany,2015,1,5.3999999999999995
+Albany,2015,2,20.900000000000002
+Albany,2015,3,35.6
+Albany,2015,4,77.8
+Albany,2015,5,57.7
+Albany,2015,6,49.0
+Albany,2015,7,89.4
+Albany,2015,8,101.0
+Albany,2015,9,52.900000000000006
+Albany,2015,10,59.5
+Albany,2015,11,17.099999999999998
+Albany,2015,12,50.0
+Albany,2016,1,73.8
+Albany,2016,2,21.7
+Albany,2016,3,44.2
+Albany,2016,4,94.6
+Albany,2016,5,97.9
+Albany,2016,6,120.3
+Albany,2016,7,122.6
+Albany,2016,8,117.1
+Albany,2016,9,102.8
+Albany,2016,10,62.8
+Albany,2016,11,22.599999999999998
+Albany,2016,12,34.1
+Albany,2017,1,3.6
+Albany,2017,2,52.2
+Albany,2017,3,29.0
+Albany,2017,4,50.3
+Albany,2017,5,67.0
+Albany,2017,6,43.6
+Albury,2008,12,54.0
+Albury,2009,1,7.800000000000001
+Albury,2009,2,3.6
+Albury,2009,3,24.0
+Albury,2009,4,84.8
+Albury,2009,5,6.8
+Albury,2009,6,71.2
+Albury,2009,7,54.6
+Albury,2009,8,62.0
+Albury,2009,9,61.4
+Albury,2009,10,26.0
+Albury,2009,11,58.800000000000004
+Albury,2009,12,15.0
+Albury,2010,1,21.0
+Albury,2010,2,72.2
+Albury,2010,3,110.0
+Albury,2010,4,36.0
+Albury,2010,5,61.4
+Albury,2010,6,29.0
+Albury,2010,7,64.4
+Albury,2010,8,100.4
+Albury,2010,9,75.60000000000001
+Albury,2010,10,154.8
+Albury,2010,11,117.4
+Albury,2010,12,74.2
+Albury,2011,1,72.4
+Albury,2011,2,267.4
+Albury,2011,3,53.6
+Albury,2011,5,32.6
+Albury,2011,6,33.4
+Albury,2011,7,70.2
+Albury,2011,8,73.4
+Albury,2011,9,52.2
+Albury,2011,10,30.0
+Albury,2011,11,128.6
+Albury,2011,12,33.4
+Albury,2012,1,47.6
+Albury,2012,2,61.0
+Albury,2012,3,255.20000000000002
+Albury,2012,4,46.4
+Albury,2012,5,38.0
+Albury,2012,6,30.6
+Albury,2012,7,96.0
+Albury,2012,8,52.4
+Albury,2012,9,26.4
+Albury,2012,10,44.0
+Albury,2012,11,37.800000000000004
+Albury,2013,1,16.8
+Albury,2013,3,51.0
+Albury,2013,4,12.2
+Albury,2013,5,45.0
+Albury,2013,6,113.39999999999999
+Albury,2013,7,73.0
+Albury,2013,8,87.6
+Albury,2013,9,50.99999999999999
+Albury,2013,10,14.6
+Albury,2013,11,10.6
+Albury,2013,12,52.4
+Albury,2014,1,35.4
+Albury,2014,2,31.6
+Albury,2014,3,48.0
+Albury,2014,4,128.4
+Albury,2014,5,62.2
+Albury,2014,6,67.6
+Albury,2014,7,41.0
+Albury,2014,8,10.4
+Albury,2014,9,56.0
+Albury,2014,10,19.6
+Albury,2014,11,57.4
+Albury,2014,12,37.4
+Albury,2015,1,96.8
+Albury,2015,2,35.199999999999996
+Albury,2015,3,4.8
+Albury,2015,4,83.39999999999999
+Albury,2015,5,45.4
+Albury,2015,6,83.6
+Albury,2015,7,43.6
+Albury,2015,8,90.39999999999999
+Albury,2015,9,27.4
+Albury,2015,10,10.600000000000001
+Albury,2015,11,66.2
+Albury,2015,12,34.2
+Albury,2016,1,68.39999999999999
+Albury,2016,2,29.400000000000002
+Albury,2016,3,29.8
+Albury,2016,4,16.4
+Albury,2016,5,107.8
+Albury,2016,6,86.0
+Albury,2016,7,116.8
+Albury,2016,8,74.4
+Albury,2016,9,142.20000000000002
+Albury,2016,10,61.4
+Albury,2016,11,49.6
+Albury,2016,12,22.8
+Albury,2017,1,45.4
+Albury,2017,2,12.0
+Albury,2017,3,3.6000000000000005
+Albury,2017,4,72.6
+Albury,2017,5,45.400000000000006
+Albury,2017,6,6.200000000000001
+Alice Springs,2008,12,54.8
+Alice Springs,2009,1,15.0
+Alice Springs,2009,2,9.0
+Alice Springs,2009,3,0.4
+Alice Springs,2009,4,0.0
+Alice Springs,2009,5,21.2
+Alice Springs,2009,6,2.4
+Alice Springs,2009,7,0.0
+Alice Springs,2009,8,11.6
+Alice Springs,2009,9,5.8
+Alice Springs,2009,10,0.0
+Alice Springs,2009,11,0.4
+Alice Springs,2009,12,11.0
+Alice Springs,2010,1,137.0
+Alice Springs,2010,2,182.4
+Alice Springs,2010,3,31.2
+Alice Springs,2010,4,39.8
+Alice Springs,2010,5,11.6
+Alice Springs,2010,6,0.0
+Alice Springs,2010,7,102.8
+Alice Springs,2010,8,16.4
+Alice Springs,2010,9,48.8
+Alice Springs,2010,10,70.2
+Alice Springs,2010,11,61.6
+Alice Springs,2010,12,67.8
+Alice Springs,2011,1,64.2
+Alice Springs,2011,2,107.60000000000001
+Alice Springs,2011,3,120.6
+Alice Springs,2011,5,2.0
+Alice Springs,2011,6,9.200000000000001
+Alice Springs,2011,7,5.800000000000001
+Alice Springs,2011,8,0.0
+Alice Springs,2011,9,0.0
+Alice Springs,2011,10,12.4
+Alice Springs,2011,11,40.2
+Alice Springs,2011,12,4.2
+Alice Springs,2012,1,26.6
+Alice Springs,2012,2,44.400000000000006
+Alice Springs,2012,3,40.8
+Alice Springs,2012,4,25.8
+Alice Springs,2012,5,0.0
+Alice Springs,2012,6,0.0
+Alice Springs,2012,7,0.0
+Alice Springs,2012,8,0.0
+Alice Springs,2012,9,4.0
+Alice Springs,2012,10,0.6
+Alice Springs,2012,11,43.2
+Alice Springs,2013,1,23.2
+Alice Springs,2013,3,25.200000000000003
+Alice Springs,2013,4,0.8
+Alice Springs,2013,5,43.4
+Alice Springs,2013,6,4.0
+Alice Springs,2013,7,43.2
+Alice Springs,2013,8,0.0
+Alice Springs,2013,9,0.6
+Alice Springs,2013,10,0.0
+Alice Springs,2013,11,1.2
+Alice Springs,2013,12,30.8
+Alice Springs,2014,1,33.4
+Alice Springs,2014,2,46.2
+Alice Springs,2014,3,1.0
+Alice Springs,2014,4,90.6
+Alice Springs,2014,5,5.3999999999999995
+Alice Springs,2014,6,0.0
+Alice Springs,2014,7,26.4
+Alice Springs,2014,8,0.0
+Alice Springs,2014,9,0.0
+Alice Springs,2014,10,0.0
+Alice Springs,2014,11,13.6
+Alice Springs,2014,12,34.8
+Alice Springs,2015,1,195.2
+Alice Springs,2015,2,0.0
+Alice Springs,2015,3,0.0
+Alice Springs,2015,4,7.6
+Alice Springs,2015,5,0.0
+Alice Springs,2015,6,2.4
+Alice Springs,2015,7,0.0
+Alice Springs,2015,8,0.4
+Alice Springs,2015,9,0.0
+Alice Springs,2015,10,0.0
+Alice Springs,2015,11,23.799999999999997
+Alice Springs,2015,12,119.8
+Alice Springs,2016,1,40.0
+Alice Springs,2016,2,26.4
+Alice Springs,2016,3,16.2
+Alice Springs,2016,4,0.0
+Alice Springs,2016,5,56.8
+Alice Springs,2016,6,28.0
+Alice Springs,2016,7,0.0
+Alice Springs,2016,8,20.4
+Alice Springs,2016,9,49.2
+Alice Springs,2016,10,3.4
+Alice Springs,2016,11,7.0
+Alice Springs,2016,12,125.8
+Alice Springs,2017,1,73.2
+Alice Springs,2017,2,4.4
+Alice Springs,2017,3,0.0
+Alice Springs,2017,4,0.2
+Alice Springs,2017,5,0.0
+Alice Springs,2017,6,0.0
+Badgerys Creek,2009,1,28.599999999999998
+Badgerys Creek,2009,2,109.6
+Badgerys Creek,2009,3,74.8
+Badgerys Creek,2009,4,84.0
+Badgerys Creek,2009,5,113.6
+Badgerys Creek,2009,6,18.0
+Badgerys Creek,2009,7,20.2
+Badgerys Creek,2009,8,3.8
+Badgerys Creek,2009,9,27.0
+Badgerys Creek,2009,10,43.0
+Badgerys Creek,2009,11,17.2
+Badgerys Creek,2009,12,51.6
+Badgerys Creek,2010,1,40.8
+Badgerys Creek,2010,2,116.0
+Badgerys Creek,2010,3,56.2
+Badgerys Creek,2010,4,14.600000000000001
+Badgerys Creek,2010,5,61.4
+Badgerys Creek,2010,6,63.0
+Badgerys Creek,2010,7,71.6
+Badgerys Creek,2010,8,20.2
+Badgerys Creek,2010,9,41.8
+Badgerys Creek,2010,10,93.2
+Badgerys Creek,2010,11,119.19999999999999
+Badgerys Creek,2010,12,131.2
+Badgerys Creek,2011,1,38.2
+Badgerys Creek,2011,2,27.6
+Badgerys Creek,2011,3,83.0
+Badgerys Creek,2011,5,52.199999999999996
+Badgerys Creek,2011,6,64.2
+Badgerys Creek,2011,7,47.0
+Badgerys Creek,2011,8,44.6
+Badgerys Creek,2011,9,68.4
+Badgerys Creek,2011,10,42.6
+Badgerys Creek,2011,11,139.6
+Badgerys Creek,2011,12,99.6
+Badgerys Creek,2012,1,119.8
+Badgerys Creek,2012,2,193.20000000000002
+Badgerys Creek,2012,3,198.0
+Badgerys Creek,2012,4,129.4
+Badgerys Creek,2012,5,13.0
+Badgerys Creek,2012,6,86.2
+Badgerys Creek,2012,7,17.8
+Badgerys Creek,2012,8,3.2
+Badgerys Creek,2012,9,14.8
+Badgerys Creek,2012,10,42.8
+Badgerys Creek,2012,11,48.6
+Badgerys Creek,2013,1,168.2
+Badgerys Creek,2013,3,60.800000000000004
+Badgerys Creek,2013,4,79.60000000000001
+Badgerys Creek,2013,5,52.4
+Badgerys Creek,2013,6,152.0
+Badgerys Creek,2013,7,2.8000000000000003
+Badgerys Creek,2013,8,7.0
+Badgerys Creek,2013,9,28.8
+Badgerys Creek,2013,10,6.0
+Badgerys Creek,2013,11,163.2
+Badgerys Creek,2013,12,28.8
+Badgerys Creek,2014,1,13.6
+Badgerys Creek,2014,2,72.2
+Badgerys Creek,2014,3,131.0
+Badgerys Creek,2014,4,58.8
+Badgerys Creek,2014,5,5.8
+Badgerys Creek,2014,6,33.199999999999996
+Badgerys Creek,2014,7,8.4
+Badgerys Creek,2014,8,135.8
+Badgerys Creek,2014,9,20.8
+Badgerys Creek,2014,10,50.400000000000006
+Badgerys Creek,2014,11,34.6
+Badgerys Creek,2014,12,128.0
+Badgerys Creek,2015,1,145.0
+Badgerys Creek,2015,2,34.0
+Badgerys Creek,2015,3,55.800000000000004
+Badgerys Creek,2015,4,253.4
+Badgerys Creek,2015,5,52.6
+Badgerys Creek,2015,6,62.00000000000001
+Badgerys Creek,2015,7,36.0
+Badgerys Creek,2015,8,46.6
+Badgerys Creek,2015,9,10.8
+Badgerys Creek,2015,10,58.2
+Badgerys Creek,2015,11,65.2
+Badgerys Creek,2015,12,0.0
+Badgerys Creek,2016,1,155.4
+Badgerys Creek,2016,2,12.8
+Badgerys Creek,2016,3,31.599999999999998
+Badgerys Creek,2016,4,10.4
+Badgerys Creek,2016,5,11.8
+Badgerys Creek,2016,6,250.4
+Badgerys Creek,2016,7,44.6
+Badgerys Creek,2016,8,58.6
+Badgerys Creek,2016,9,54.8
+Badgerys Creek,2016,10,14.200000000000001
+Badgerys Creek,2016,11,9.8
+Badgerys Creek,2016,12,10.2
+Badgerys Creek,2017,1,23.6
+Badgerys Creek,2017,2,93.0
+Badgerys Creek,2017,3,285.4
+Badgerys Creek,2017,4,27.6
+Badgerys Creek,2017,5,15.6
+Badgerys Creek,2017,6,55.4
+Ballarat,2008,12,83.39999999999999
+Ballarat,2009,1,0.8
+Ballarat,2009,2,2.2
+Ballarat,2009,3,40.199999999999996
+Ballarat,2009,4,33.0
+Ballarat,2009,5,20.0
+Ballarat,2009,6,58.199999999999996
+Ballarat,2009,7,67.2
+Ballarat,2009,8,64.8
+Ballarat,2009,9,89.8
+Ballarat,2009,10,31.8
+Ballarat,2009,11,113.0
+Ballarat,2009,12,32.0
+Ballarat,2010,1,25.8
+Ballarat,2010,2,26.000000000000004
+Ballarat,2010,3,117.2
+Ballarat,2010,4,58.2
+Ballarat,2010,5,33.2
+Ballarat,2010,6,43.6
+Ballarat,2010,7,55.0
+Ballarat,2010,8,161.0
+Ballarat,2010,9,107.8
+Ballarat,2010,10,92.8
+Ballarat,2010,11,100.6
+Ballarat,2010,12,58.4
+Ballarat,2011,1,206.0
+Ballarat,2011,2,96.80000000000001
+Ballarat,2011,3,20.4
+Ballarat,2011,5,65.4
+Ballarat,2011,6,41.0
+Ballarat,2011,7,49.6
+Ballarat,2011,8,46.8
+Ballarat,2011,9,54.8
+Ballarat,2011,10,65.6
+Ballarat,2011,11,92.8
+Ballarat,2011,12,25.4
+Ballarat,2012,1,22.2
+Ballarat,2012,2,87.2
+Ballarat,2012,3,50.8
+Ballarat,2012,4,44.6
+Ballarat,2012,5,51.4
+Ballarat,2012,6,81.2
+Ballarat,2012,7,83.0
+Ballarat,2012,8,70.0
+Ballarat,2012,9,45.6
+Ballarat,2012,10,29.8
+Ballarat,2012,11,33.6
+Ballarat,2013,1,1.8
+Ballarat,2013,3,12.4
+Ballarat,2013,4,11.0
+Ballarat,2013,5,41.4
+Ballarat,2013,6,49.0
+Ballarat,2013,7,73.0
+Ballarat,2013,8,73.6
+Ballarat,2013,9,60.2
+Ballarat,2013,10,70.8
+Ballarat,2013,11,35.8
+Ballarat,2013,12,26.0
+Ballarat,2014,1,20.599999999999998
+Ballarat,2014,2,6.2
+Ballarat,2014,3,26.599999999999998
+Ballarat,2014,4,71.2
+Ballarat,2014,5,28.2
+Ballarat,2014,6,84.0
+Ballarat,2014,7,58.4
+Ballarat,2014,8,35.2
+Ballarat,2014,9,44.8
+Ballarat,2014,10,33.6
+Ballarat,2014,11,41.2
+Ballarat,2014,12,10.6
+Ballarat,2015,1,77.80000000000001
+Ballarat,2015,2,53.0
+Ballarat,2015,3,34.8
+Ballarat,2015,4,32.8
+Ballarat,2015,5,38.8
+Ballarat,2015,6,27.6
+Ballarat,2015,7,62.0
+Ballarat,2015,8,38.6
+Ballarat,2015,9,42.800000000000004
+Ballarat,2015,10,3.8
+Ballarat,2015,11,14.8
+Ballarat,2015,12,26.2
+Ballarat,2016,1,39.4
+Ballarat,2016,2,9.6
+Ballarat,2016,3,36.6
+Ballarat,2016,4,13.8
+Ballarat,2016,5,71.4
+Ballarat,2016,6,70.6
+Ballarat,2016,7,93.4
+Ballarat,2016,8,63.6
+Ballarat,2016,9,178.2
+Ballarat,2016,10,102.4
+Ballarat,2016,11,34.0
+Ballarat,2016,12,27.599999999999998
+Ballarat,2017,1,38.6
+Ballarat,2017,2,44.199999999999996
+Ballarat,2017,3,44.4
+Ballarat,2017,4,101.0
+Ballarat,2017,5,44.0
+Ballarat,2017,6,7.4
+Bendigo,2008,12,56.599999999999994
+Bendigo,2009,1,0.0
+Bendigo,2009,2,0.4
+Bendigo,2009,3,26.8
+Bendigo,2009,4,22.599999999999998
+Bendigo,2009,5,20.0
+Bendigo,2009,6,54.2
+Bendigo,2009,7,74.0
+Bendigo,2009,8,53.199999999999996
+Bendigo,2009,9,53.400000000000006
+Bendigo,2009,10,33.4
+Bendigo,2009,11,61.0
+Bendigo,2009,12,19.0
+Bendigo,2010,1,13.6
+Bendigo,2010,2,43.6
+Bendigo,2010,3,116.4
+Bendigo,2010,4,76.8
+Bendigo,2010,5,71.6
+Bendigo,2010,6,68.8
+Bendigo,2010,7,78.0
+Bendigo,2010,8,139.0
+Bendigo,2010,9,96.2
+Bendigo,2010,10,137.6
+Bendigo,2010,11,115.2
+Bendigo,2010,12,103.6
+Bendigo,2011,1,177.8
+Bendigo,2011,2,152.2
+Bendigo,2011,3,46.0
+Bendigo,2011,5,15.6
+Bendigo,2011,6,22.6
+Bendigo,2011,7,53.8
+Bendigo,2011,8,70.2
+Bendigo,2011,9,50.0
+Bendigo,2011,10,24.8
+Bendigo,2011,11,70.6
+Bendigo,2011,12,34.4
+Bendigo,2012,1,29.0
+Bendigo,2012,2,76.4
+Bendigo,2012,3,81.6
+Bendigo,2012,4,11.6
+Bendigo,2012,5,24.2
+Bendigo,2012,6,58.4
+Bendigo,2012,7,62.4
+Bendigo,2012,8,39.2
+Bendigo,2012,9,33.4
+Bendigo,2012,10,17.4
+Bendigo,2012,11,6.4
+Bendigo,2013,1,0.6
+Bendigo,2013,3,24.599999999999998
+Bendigo,2013,4,5.0
+Bendigo,2013,5,39.599999999999994
+Bendigo,2013,6,63.4
+Bendigo,2013,7,77.2
+Bendigo,2013,8,88.60000000000001
+Bendigo,2013,9,60.199999999999996
+Bendigo,2013,10,32.0
+Bendigo,2013,11,24.2
+Bendigo,2013,12,46.8
+Bendigo,2014,1,2.8
+Bendigo,2014,2,9.8
+Bendigo,2014,3,41.6
+Bendigo,2014,4,101.6
+Bendigo,2014,5,33.4
+Bendigo,2014,6,101.0
+Bendigo,2014,7,44.4
+Bendigo,2014,8,9.6
+Bendigo,2014,9,53.0
+Bendigo,2014,10,12.4
+Bendigo,2014,11,42.6
+Bendigo,2014,12,10.6
+Bendigo,2015,1,57.199999999999996
+Bendigo,2015,2,9.6
+Bendigo,2015,3,9.0
+Bendigo,2015,4,28.2
+Bendigo,2015,5,47.0
+Bendigo,2015,6,36.6
+Bendigo,2015,7,52.8
+Bendigo,2015,8,23.2
+Bendigo,2015,9,30.599999999999998
+Bendigo,2015,10,14.200000000000001
+Bendigo,2015,11,34.400000000000006
+Bendigo,2015,12,14.2
+Bendigo,2016,1,32.4
+Bendigo,2016,2,4.4
+Bendigo,2016,3,33.4
+Bendigo,2016,4,14.8
+Bendigo,2016,5,83.0
+Bendigo,2016,6,57.4
+Bendigo,2016,7,91.8
+Bendigo,2016,8,81.0
+Bendigo,2016,9,153.4
+Bendigo,2016,10,58.4
+Bendigo,2016,11,37.6
+Bendigo,2016,12,29.2
+Bendigo,2017,1,43.0
+Bendigo,2017,2,29.4
+Bendigo,2017,3,45.800000000000004
+Bendigo,2017,4,113.2
+Bendigo,2017,5,27.8
+Bendigo,2017,6,2.2
+Brisbane,2008,7,91.39999999999999
+Brisbane,2008,8,15.799999999999999
+Brisbane,2008,9,55.6
+Brisbane,2008,10,55.2
+Brisbane,2008,11,326.6
+Brisbane,2008,12,62.6
+Brisbane,2009,1,77.4
+Brisbane,2009,2,131.8
+Brisbane,2009,3,47.6
+Brisbane,2009,4,195.20000000000002
+Brisbane,2009,5,240.8
+Brisbane,2009,6,87.6
+Brisbane,2009,7,3.6
+Brisbane,2009,8,4.0
+Brisbane,2009,9,23.4
+Brisbane,2009,10,57.4
+Brisbane,2009,11,31.400000000000002
+Brisbane,2009,12,172.2
+Brisbane,2010,1,40.2
+Brisbane,2010,2,272.40000000000003
+Brisbane,2010,3,162.2
+Brisbane,2010,4,36.4
+Brisbane,2010,5,61.2
+Brisbane,2010,6,6.2
+Brisbane,2010,7,27.8
+Brisbane,2010,8,104.6
+Brisbane,2010,9,103.6
+Brisbane,2010,10,306.4
+Brisbane,2010,11,57.800000000000004
+Brisbane,2010,12,479.8
+Brisbane,2011,1,315.8
+Brisbane,2011,2,157.0
+Brisbane,2011,3,149.2
+Brisbane,2011,5,69.2
+Brisbane,2011,6,10.600000000000001
+Brisbane,2011,7,12.4
+Brisbane,2011,8,76.8
+Brisbane,2011,9,18.6
+Brisbane,2011,10,117.8
+Brisbane,2011,11,15.6
+Brisbane,2011,12,132.4
+Brisbane,2012,1,343.4
+Brisbane,2012,2,162.2
+Brisbane,2012,3,118.2
+Brisbane,2012,4,149.0
+Brisbane,2012,5,36.4
+Brisbane,2012,6,122.0
+Brisbane,2012,7,51.2
+Brisbane,2012,8,0.2
+Brisbane,2012,9,5.6
+Brisbane,2012,10,21.4
+Brisbane,2012,11,116.80000000000001
+Brisbane,2013,1,271.0
+Brisbane,2013,3,172.4
+Brisbane,2013,4,104.6
+Brisbane,2013,5,44.0
+Brisbane,2013,6,59.4
+Brisbane,2013,7,39.0
+Brisbane,2013,8,0.2
+Brisbane,2013,9,13.200000000000001
+Brisbane,2013,10,22.599999999999998
+Brisbane,2013,11,104.8
+Brisbane,2013,12,19.2
+Brisbane,2014,1,143.79999999999998
+Brisbane,2014,2,15.8
+Brisbane,2014,3,164.39999999999998
+Brisbane,2014,4,14.200000000000001
+Brisbane,2014,5,28.6
+Brisbane,2014,6,16.2
+Brisbane,2014,7,14.2
+Brisbane,2014,8,93.2
+Brisbane,2014,9,27.6
+Brisbane,2014,10,5.800000000000001
+Brisbane,2014,11,142.0
+Brisbane,2014,12,124.4
+Brisbane,2015,1,322.40000000000003
+Brisbane,2015,2,274.8
+Brisbane,2015,3,161.4
+Brisbane,2015,4,146.20000000000002
+Brisbane,2015,5,248.79999999999998
+Brisbane,2015,6,34.6
+Brisbane,2015,7,9.2
+Brisbane,2015,8,27.6
+Brisbane,2015,9,54.199999999999996
+Brisbane,2015,10,55.800000000000004
+Brisbane,2015,11,74.2
+Brisbane,2015,12,36.2
+Brisbane,2016,1,51.4
+Brisbane,2016,2,13.8
+Brisbane,2016,3,117.4
+Brisbane,2016,4,12.8
+Brisbane,2016,5,27.6
+Brisbane,2016,6,264.8
+Brisbane,2016,7,28.2
+Brisbane,2016,8,31.6
+Brisbane,2016,9,51.8
+Brisbane,2016,10,30.2
+Brisbane,2016,11,28.0
+Brisbane,2016,12,102.0
+Brisbane,2017,1,218.4
+Brisbane,2017,2,30.6
+Brisbane,2017,3,189.6
+Brisbane,2017,4,5.800000000000001
+Brisbane,2017,5,36.199999999999996
+Brisbane,2017,6,74.8
+Cairns,2008,12,195.2
+Cairns,2009,1,868.0
+Cairns,2009,2,620.0
+Cairns,2009,3,152.0
+Cairns,2009,4,134.0
+Cairns,2009,5,87.2
+Cairns,2009,6,4.4
+Cairns,2009,7,5.0
+Cairns,2009,8,8.0
+Cairns,2009,9,3.6
+Cairns,2009,10,30.8
+Cairns,2009,11,208.2
+Cairns,2009,12,78.2
+Cairns,2010,1,696.6
+Cairns,2010,2,290.8
+Cairns,2010,3,436.2
+Cairns,2010,4,252.8
+Cairns,2010,5,30.6
+Cairns,2010,6,10.8
+Cairns,2010,7,36.6
+Cairns,2010,8,62.6
+Cairns,2010,9,91.8
+Cairns,2010,10,184.6
+Cairns,2010,11,204.4
+Cairns,2010,12,362.0
+Cairns,2011,1,410.0
+Cairns,2011,2,999.2
+Cairns,2011,3,418.8
+Cairns,2011,5,13.600000000000001
+Cairns,2011,6,69.19999999999999
+Cairns,2011,7,12.200000000000001
+Cairns,2011,8,9.6
+Cairns,2011,9,14.0
+Cairns,2011,10,394.4
+Cairns,2011,11,82.0
+Cairns,2011,12,151.4
+Cairns,2012,1,355.40000000000003
+Cairns,2012,2,268.2
+Cairns,2012,3,937.8
+Cairns,2012,4,156.6
+Cairns,2012,5,144.2
+Cairns,2012,6,16.2
+Cairns,2012,7,43.6
+Cairns,2012,8,5.4
+Cairns,2012,9,13.0
+Cairns,2012,10,29.0
+Cairns,2012,11,22.0
+Cairns,2013,1,326.8
+Cairns,2013,3,183.6
+Cairns,2013,4,93.39999999999999
+Cairns,2013,5,172.4
+Cairns,2013,6,27.0
+Cairns,2013,7,37.6
+Cairns,2013,8,3.6
+Cairns,2013,9,43.6
+Cairns,2013,10,41.8
+Cairns,2013,11,165.20000000000002
+Cairns,2013,12,56.8
+Cairns,2014,1,323.0
+Cairns,2014,2,395.8
+Cairns,2014,3,419.4
+Cairns,2014,4,358.8
+Cairns,2014,5,92.8
+Cairns,2014,6,71.6
+Cairns,2014,7,14.4
+Cairns,2014,8,29.8
+Cairns,2014,9,1.7999999999999998
+Cairns,2014,10,13.8
+Cairns,2014,11,18.6
+Cairns,2014,12,86.2
+Cairns,2015,1,210.8
+Cairns,2015,2,596.2
+Cairns,2015,3,241.2
+Cairns,2015,4,83.2
+Cairns,2015,5,27.4
+Cairns,2015,6,177.6
+Cairns,2015,7,25.0
+Cairns,2015,8,17.0
+Cairns,2015,9,13.0
+Cairns,2015,10,64.8
+Cairns,2015,11,92.39999999999999
+Cairns,2015,12,348.0
+Cairns,2016,1,288.8
+Cairns,2016,2,136.0
+Cairns,2016,3,258.2
+Cairns,2016,4,152.8
+Cairns,2016,5,180.0
+Cairns,2016,6,66.60000000000001
+Cairns,2016,7,85.0
+Cairns,2016,8,41.800000000000004
+Cairns,2016,9,49.0
+Cairns,2016,10,70.6
+Cairns,2016,11,17.6
+Cairns,2016,12,60.0
+Cairns,2017,1,374.8
+Cairns,2017,2,483.8
+Cairns,2017,3,121.2
+Cairns,2017,4,183.2
+Cairns,2017,5,72.4
+Cairns,2017,6,20.8
+Canberra,2007,11,95.4
+Canberra,2007,12,101.0
+Canberra,2008,1,43.8
+Canberra,2008,2,64.6
+Canberra,2008,3,30.0
+Canberra,2008,4,17.400000000000002
+Canberra,2008,5,12.799999999999999
+Canberra,2008,6,21.8
+Canberra,2008,7,44.0
+Canberra,2008,8,17.6
+Canberra,2008,9,40.8
+Canberra,2008,10,33.6
+Canberra,2008,11,87.4
+Canberra,2008,12,121.0
+Canberra,2009,1,52.0
+Canberra,2009,2,7.0
+Canberra,2009,3,10.2
+Canberra,2009,4,72.60000000000001
+Canberra,2009,5,2.4000000000000004
+Canberra,2009,6,35.4
+Canberra,2009,7,30.400000000000002
+Canberra,2009,8,36.4
+Canberra,2009,9,57.0
+Canberra,2009,10,45.0
+Canberra,2009,11,16.2
+Canberra,2009,12,75.6
+Canberra,2010,1,6.8
+Canberra,2010,2,133.2
+Canberra,2010,3,88.0
+Canberra,2010,4,19.4
+Canberra,2010,5,79.4
+Canberra,2010,6,20.2
+Canberra,2010,7,62.199999999999996
+Canberra,2010,8,66.2
+Canberra,2010,9,63.8
+Canberra,2010,10,102.80000000000001
+Canberra,2010,11,119.4
+Canberra,2010,12,198.4
+Canberra,2011,1,54.0
+Canberra,2011,2,129.2
+Canberra,2011,3,41.4
+Canberra,2011,5,12.0
+Canberra,2011,6,8.799999999999999
+Canberra,2011,7,25.2
+Canberra,2011,8,50.8
+Canberra,2011,9,32.6
+Canberra,2011,10,25.2
+Canberra,2011,11,113.2
+Canberra,2011,12,64.0
+Canberra,2012,1,46.8
+Canberra,2012,2,126.4
+Canberra,2012,3,193.4
+Canberra,2012,4,16.9
+Canberra,2012,5,33.2
+Canberra,2012,6,47.800000000000004
+Canberra,2012,7,34.9
+Canberra,2012,8,40.4
+Canberra,2012,9,41.6
+Canberra,2012,10,66.80000000000001
+Canberra,2012,11,29.0
+Canberra,2013,1,72.60000000000001
+Canberra,2013,3,26.6
+Canberra,2013,4,9.8
+Canberra,2013,5,6.6000000000000005
+Canberra,2013,6,85.2
+Canberra,2013,7,42.800000000000004
+Canberra,2013,8,27.0
+Canberra,2013,9,91.0
+Canberra,2013,10,13.399999999999999
+Canberra,2013,11,105.6
+Canberra,2013,12,23.2
+Canberra,2014,1,4.8
+Canberra,2014,2,83.6
+Canberra,2014,3,88.0
+Canberra,2014,4,69.2
+Canberra,2014,5,14.4
+Canberra,2014,6,57.2
+Canberra,2014,7,16.200000000000003
+Canberra,2014,8,26.8
+Canberra,2014,9,28.8
+Canberra,2014,10,53.4
+Canberra,2014,11,24.2
+Canberra,2014,12,102.0
+Canberra,2015,1,97.0
+Canberra,2015,2,30.2
+Canberra,2015,3,12.4
+Canberra,2015,4,91.8
+Canberra,2015,5,12.200000000000001
+Canberra,2015,6,55.2
+Canberra,2015,7,37.199999999999996
+Canberra,2015,8,66.8
+Canberra,2015,9,13.6
+Canberra,2015,10,26.599999999999998
+Canberra,2015,11,67.6
+Canberra,2015,12,35.0
+Canberra,2016,1,106.4
+Canberra,2016,2,23.4
+Canberra,2016,3,28.400000000000002
+Canberra,2016,4,6.800000000000001
+Canberra,2016,5,47.6
+Canberra,2016,6,144.20000000000002
+Canberra,2016,7,71.0
+Canberra,2016,8,46.2
+Canberra,2016,9,149.2
+Canberra,2016,10,43.6
+Canberra,2016,11,56.8
+Canberra,2016,12,64.6
+Canberra,2017,1,8.4
+Canberra,2017,2,20.6
+Canberra,2017,3,85.2
+Canberra,2017,4,31.6
+Canberra,2017,5,34.2
+Canberra,2017,6,2.2
+Cobar,2009,1,31.4
+Cobar,2009,2,72.80000000000001
+Cobar,2009,3,10.6
+Cobar,2009,4,25.4
+Cobar,2009,5,37.800000000000004
+Cobar,2009,6,88.4
+Cobar,2009,7,18.2
+Cobar,2009,8,1.0
+Cobar,2009,9,17.0
+Cobar,2009,10,32.6
+Cobar,2009,11,9.8
+Cobar,2009,12,32.8
+Cobar,2010,1,11.2
+Cobar,2010,2,128.2
+Cobar,2010,3,29.400000000000002
+Cobar,2010,4,38.0
+Cobar,2010,5,29.599999999999998
+Cobar,2010,6,19.4
+Cobar,2010,7,81.6
+Cobar,2010,8,26.0
+Cobar,2010,9,23.4
+Cobar,2010,10,95.2
+Cobar,2010,11,125.39999999999999
+Cobar,2010,12,70.8
+Cobar,2011,1,19.0
+Cobar,2011,2,32.6
+Cobar,2011,3,25.0
+Cobar,2011,5,43.2
+Cobar,2011,6,2.2
+Cobar,2011,7,13.6
+Cobar,2011,8,16.8
+Cobar,2011,9,28.2
+Cobar,2011,10,23.0
+Cobar,2011,11,52.2
+Cobar,2011,12,37.8
+Cobar,2012,1,111.6
+Cobar,2012,2,49.4
+Cobar,2012,3,86.6
+Cobar,2012,4,0.2
+Cobar,2012,5,12.0
+Cobar,2012,6,33.2
+Cobar,2012,7,28.0
+Cobar,2012,8,0.6
+Cobar,2012,9,17.4
+Cobar,2012,10,2.4
+Cobar,2012,11,32.199999999999996
+Cobar,2013,1,0.6
+Cobar,2013,3,55.6
+Cobar,2013,4,0.0
+Cobar,2013,5,23.8
+Cobar,2013,6,81.0
+Cobar,2013,7,42.8
+Cobar,2013,8,0.2
+Cobar,2013,9,19.400000000000002
+Cobar,2013,10,8.0
+Cobar,2013,11,1.2
+Cobar,2013,12,35.0
+Cobar,2014,1,5.0
+Cobar,2014,2,73.80000000000001
+Cobar,2014,3,55.6
+Cobar,2014,4,29.8
+Cobar,2014,5,16.4
+Cobar,2014,6,41.2
+Cobar,2014,7,1.2000000000000002
+Cobar,2014,8,34.0
+Cobar,2014,9,16.4
+Cobar,2014,10,0.4
+Cobar,2014,11,3.1999999999999997
+Cobar,2014,12,34.2
+Cobar,2015,1,61.4
+Cobar,2015,2,17.0
+Cobar,2015,3,0.0
+Cobar,2015,4,19.8
+Cobar,2015,5,68.0
+Cobar,2015,6,54.0
+Cobar,2015,7,32.6
+Cobar,2015,8,22.599999999999998
+Cobar,2015,9,6.2
+Cobar,2015,10,14.200000000000001
+Cobar,2015,11,56.6
+Cobar,2015,12,23.2
+Cobar,2016,1,21.6
+Cobar,2016,2,1.8
+Cobar,2016,3,68.0
+Cobar,2016,4,39.4
+Cobar,2016,5,75.6
+Cobar,2016,6,107.6
+Cobar,2016,7,32.8
+Cobar,2016,8,60.400000000000006
+Cobar,2016,9,102.2
+Cobar,2016,10,20.4
+Cobar,2016,11,21.4
+Cobar,2016,12,30.8
+Cobar,2017,1,32.6
+Cobar,2017,2,3.0
+Cobar,2017,3,24.0
+Cobar,2017,4,13.799999999999999
+Cobar,2017,5,32.2
+Cobar,2017,6,3.1999999999999997
+Coffs Harbour,2009,1,42.2
+Coffs Harbour,2009,2,447.40000000000003
+Coffs Harbour,2009,3,190.0
+Coffs Harbour,2009,4,271.2
+Coffs Harbour,2009,5,188.0
+Coffs Harbour,2009,6,267.6
+Coffs Harbour,2009,7,42.199999999999996
+Coffs Harbour,2009,8,1.0
+Coffs Harbour,2009,9,9.0
+Coffs Harbour,2009,10,195.6
+Coffs Harbour,2009,11,557.0
+Coffs Harbour,2009,12,136.0
+Coffs Harbour,2010,1,17.200000000000003
+Coffs Harbour,2010,2,253.2
+Coffs Harbour,2010,3,182.8
+Coffs Harbour,2010,4,73.2
+Coffs Harbour,2010,5,68.4
+Coffs Harbour,2010,6,129.6
+Coffs Harbour,2010,7,159.4
+Coffs Harbour,2010,8,20.6
+Coffs Harbour,2010,9,55.6
+Coffs Harbour,2010,10,424.8
+Coffs Harbour,2010,11,215.2
+Coffs Harbour,2010,12,391.4
+Coffs Harbour,2011,1,263.59999999999997
+Coffs Harbour,2011,2,125.8
+Coffs Harbour,2011,3,168.4
+Coffs Harbour,2011,5,92.0
+Coffs Harbour,2011,6,419.7
+Coffs Harbour,2011,7,54.2
+Coffs Harbour,2011,8,163.2
+Coffs Harbour,2011,9,29.2
+Coffs Harbour,2011,10,180.6
+Coffs Harbour,2011,11,158.0
+Coffs Harbour,2011,12,170.8
+Coffs Harbour,2012,1,357.8
+Coffs Harbour,2012,2,311.59999999999997
+Coffs Harbour,2012,3,142.0
+Coffs Harbour,2012,4,264.2
+Coffs Harbour,2012,5,55.199999999999996
+Coffs Harbour,2012,6,272.4
+Coffs Harbour,2012,7,54.3
+Coffs Harbour,2012,8,12.0
+Coffs Harbour,2012,9,33.199999999999996
+Coffs Harbour,2012,10,24.799999999999997
+Coffs Harbour,2012,11,232.0
+Coffs Harbour,2013,1,480.8
+Coffs Harbour,2013,3,126.3
+Coffs Harbour,2013,4,168.0
+Coffs Harbour,2013,5,306.2
+Coffs Harbour,2013,6,90.0
+Coffs Harbour,2013,7,97.60000000000001
+Coffs Harbour,2013,8,3.1999999999999997
+Coffs Harbour,2013,9,16.4
+Coffs Harbour,2013,10,54.0
+Coffs Harbour,2013,11,290.4
+Coffs Harbour,2013,12,32.6
+Coffs Harbour,2014,1,43.0
+Coffs Harbour,2014,2,64.2
+Coffs Harbour,2014,3,211.7
+Coffs Harbour,2014,4,146.0
+Coffs Harbour,2014,5,41.4
+Coffs Harbour,2014,6,36.0
+Coffs Harbour,2014,7,5.8
+Coffs Harbour,2014,8,245.6
+Coffs Harbour,2014,9,29.4
+Coffs Harbour,2014,10,11.8
+Coffs Harbour,2014,11,119.6
+Coffs Harbour,2014,12,245.2
+Coffs Harbour,2015,1,0.0
+Coffs Harbour,2015,2,494.5
+Coffs Harbour,2015,3,244.60000000000002
+Coffs Harbour,2015,4,176.1
+Coffs Harbour,2015,5,280.59999999999997
+Coffs Harbour,2015,6,52.0
+Coffs Harbour,2015,7,29.0
+Coffs Harbour,2015,8,25.5
+Coffs Harbour,2015,9,81.5
+Coffs Harbour,2015,10,35.9
+Coffs Harbour,2015,11,153.3
+Coffs Harbour,2015,12,184.9
+Coffs Harbour,2016,1,97.0
+Coffs Harbour,2016,2,31.5
+Coffs Harbour,2016,3,72.7
+Coffs Harbour,2016,4,116.3
+Coffs Harbour,2016,5,3.5
+Coffs Harbour,2016,6,340.5
+Coffs Harbour,2016,7,22.7
+Coffs Harbour,2016,8,176.9
+Coffs Harbour,2016,9,34.9
+Coffs Harbour,2016,10,26.1
+Coffs Harbour,2016,11,106.39999999999999
+Coffs Harbour,2016,12,63.6
+Coffs Harbour,2017,1,151.0
+Coffs Harbour,2017,2,114.3
+Coffs Harbour,2017,3,570.4
+Coffs Harbour,2017,4,89.8
+Coffs Harbour,2017,5,87.3
+Coffs Harbour,2017,6,295.0
+Dartmoor,2009,1,0.0
+Dartmoor,2009,2,0.0
+Dartmoor,2009,3,54.0
+Dartmoor,2009,4,63.400000000000006
+Dartmoor,2009,5,32.6
+Dartmoor,2009,6,70.8
+Dartmoor,2009,7,159.20000000000002
+Dartmoor,2009,8,142.4
+Dartmoor,2009,9,99.0
+Dartmoor,2009,10,50.2
+Dartmoor,2009,11,35.8
+Dartmoor,2009,12,40.199999999999996
+Dartmoor,2010,1,21.599999999999998
+Dartmoor,2010,2,50.0
+Dartmoor,2010,3,25.2
+Dartmoor,2010,4,77.2
+Dartmoor,2010,5,58.6
+Dartmoor,2010,6,72.0
+Dartmoor,2010,7,83.6
+Dartmoor,2010,8,138.6
+Dartmoor,2010,9,91.0
+Dartmoor,2010,10,62.400000000000006
+Dartmoor,2010,11,40.2
+Dartmoor,2010,12,110.2
+Dartmoor,2011,1,131.2
+Dartmoor,2011,2,58.0
+Dartmoor,2011,3,45.2
+Dartmoor,2011,5,99.8
+Dartmoor,2011,6,99.0
+Dartmoor,2011,7,119.60000000000001
+Dartmoor,2011,8,115.6
+Dartmoor,2011,9,55.2
+Dartmoor,2011,10,58.4
+Dartmoor,2011,11,70.6
+Dartmoor,2011,12,34.8
+Dartmoor,2012,1,22.6
+Dartmoor,2012,2,16.6
+Dartmoor,2012,3,68.6
+Dartmoor,2012,4,37.8
+Dartmoor,2012,5,99.0
+Dartmoor,2012,6,116.2
+Dartmoor,2012,7,106.2
+Dartmoor,2012,8,105.4
+Dartmoor,2012,9,51.6
+Dartmoor,2012,10,41.800000000000004
+Dartmoor,2012,11,28.2
+Dartmoor,2013,1,6.6000000000000005
+Dartmoor,2013,3,26.8
+Dartmoor,2013,4,32.6
+Dartmoor,2013,5,107.8
+Dartmoor,2013,6,54.4
+Dartmoor,2013,7,122.6
+Dartmoor,2013,8,197.8
+Dartmoor,2013,9,70.0
+Dartmoor,2013,10,110.8
+Dartmoor,2013,11,41.4
+Dartmoor,2013,12,34.4
+Dartmoor,2014,1,25.2
+Dartmoor,2014,2,15.6
+Dartmoor,2014,3,47.0
+Dartmoor,2014,4,68.4
+Dartmoor,2014,5,97.0
+Dartmoor,2014,6,142.4
+Dartmoor,2014,7,86.2
+Dartmoor,2014,8,37.800000000000004
+Dartmoor,2014,9,24.2
+Dartmoor,2014,10,24.0
+Dartmoor,2014,11,18.8
+Dartmoor,2014,12,29.4
+Dartmoor,2015,1,73.2
+Dartmoor,2015,2,6.2
+Dartmoor,2015,3,40.4
+Dartmoor,2015,4,46.199999999999996
+Dartmoor,2015,5,95.6
+Dartmoor,2015,6,64.4
+Dartmoor,2015,7,91.8
+Dartmoor,2015,8,43.6
+Dartmoor,2015,9,54.0
+Dartmoor,2015,10,11.2
+Dartmoor,2015,11,22.6
+Dartmoor,2015,12,15.399999999999999
+Dartmoor,2016,1,17.6
+Dartmoor,2016,2,41.2
+Dartmoor,2016,3,28.6
+Dartmoor,2016,4,34.0
+Dartmoor,2016,5,100.39999999999999
+Dartmoor,2016,6,151.6
+Dartmoor,2016,7,127.6
+Dartmoor,2016,8,86.2
+Dartmoor,2016,9,109.2
+Dartmoor,2016,10,72.6
+Dartmoor,2016,11,46.8
+Dartmoor,2016,12,51.800000000000004
+Dartmoor,2017,1,47.4
+Dartmoor,2017,2,44.199999999999996
+Dartmoor,2017,3,50.0
+Dartmoor,2017,4,84.4
+Dartmoor,2017,5,62.800000000000004
+Dartmoor,2017,6,13.4
+Darwin,2008,7,0.0
+Darwin,2008,8,0.0
+Darwin,2008,9,5.2
+Darwin,2008,10,117.0
+Darwin,2008,11,54.6
+Darwin,2008,12,325.8
+Darwin,2009,1,411.0
+Darwin,2009,2,495.8
+Darwin,2009,3,115.6
+Darwin,2009,4,63.6
+Darwin,2009,5,0.4
+Darwin,2009,6,0.0
+Darwin,2009,7,0.0
+Darwin,2009,8,0.0
+Darwin,2009,9,34.4
+Darwin,2009,10,33.4
+Darwin,2009,11,131.0
+Darwin,2009,12,457.2
+Darwin,2010,1,630.2
+Darwin,2010,2,428.8
+Darwin,2010,3,198.4
+Darwin,2010,4,136.6
+Darwin,2010,5,66.2
+Darwin,2010,6,0.0
+Darwin,2010,7,0.2
+Darwin,2010,8,0.0
+Darwin,2010,9,40.4
+Darwin,2010,10,157.8
+Darwin,2010,11,208.2
+Darwin,2010,12,390.4
+Darwin,2011,1,627.2
+Darwin,2011,2,1110.2
+Darwin,2011,3,231.6
+Darwin,2011,5,0.6
+Darwin,2011,6,0.0
+Darwin,2011,7,0.0
+Darwin,2011,8,0.0
+Darwin,2011,9,3.2
+Darwin,2011,10,141.0
+Darwin,2011,11,152.0
+Darwin,2011,12,227.20000000000002
+Darwin,2012,1,459.2
+Darwin,2012,2,250.2
+Darwin,2012,3,572.4
+Darwin,2012,4,70.2
+Darwin,2012,5,51.400000000000006
+Darwin,2012,6,0.0
+Darwin,2012,7,0.0
+Darwin,2012,8,0.0
+Darwin,2012,9,21.2
+Darwin,2012,10,16.8
+Darwin,2012,11,77.4
+Darwin,2013,1,219.8
+Darwin,2013,3,381.0
+Darwin,2013,4,101.6
+Darwin,2013,5,31.599999999999998
+Darwin,2013,6,0.6000000000000001
+Darwin,2013,7,0.0
+Darwin,2013,8,2.6
+Darwin,2013,9,0.2
+Darwin,2013,10,98.60000000000001
+Darwin,2013,11,314.2
+Darwin,2013,12,210.8
+Darwin,2014,1,608.6
+Darwin,2014,2,369.0
+Darwin,2014,3,92.39999999999999
+Darwin,2014,4,177.20000000000002
+Darwin,2014,5,8.600000000000001
+Darwin,2014,6,0.0
+Darwin,2014,7,0.0
+Darwin,2014,8,0.0
+Darwin,2014,9,0.0
+Darwin,2014,10,14.8
+Darwin,2014,11,165.8
+Darwin,2014,12,111.0
+Darwin,2015,1,484.6
+Darwin,2015,2,353.2
+Darwin,2015,3,230.79999999999998
+Darwin,2015,4,21.200000000000003
+Darwin,2015,5,13.8
+Darwin,2015,6,0.4
+Darwin,2015,7,0.0
+Darwin,2015,8,0.2
+Darwin,2015,9,3.4000000000000004
+Darwin,2015,10,42.6
+Darwin,2015,11,84.2
+Darwin,2015,12,509.4
+Darwin,2016,1,169.8
+Darwin,2016,2,150.4
+Darwin,2016,3,115.8
+Darwin,2016,4,46.4
+Darwin,2016,5,62.4
+Darwin,2016,6,0.0
+Darwin,2016,7,0.0
+Darwin,2016,8,0.0
+Darwin,2016,9,64.4
+Darwin,2016,10,130.8
+Darwin,2016,11,208.2
+Darwin,2016,12,406.8
+Darwin,2017,1,470.59999999999997
+Darwin,2017,2,624.8
+Darwin,2017,3,458.4
+Darwin,2017,4,184.79999999999998
+Darwin,2017,5,0.4
+Darwin,2017,6,0.0
+Gold Coast,2008,12,123.8
+Gold Coast,2009,1,93.2
+Gold Coast,2009,2,167.39999999999998
+Gold Coast,2009,3,91.4
+Gold Coast,2009,4,385.6
+Gold Coast,2009,5,183.4
+Gold Coast,2009,6,139.8
+Gold Coast,2009,7,7.199999999999999
+Gold Coast,2009,8,4.2
+Gold Coast,2009,9,13.0
+Gold Coast,2009,10,20.8
+Gold Coast,2009,11,52.0
+Gold Coast,2009,12,107.8
+Gold Coast,2010,1,73.8
+Gold Coast,2010,2,299.8
+Gold Coast,2010,3,185.20000000000002
+Gold Coast,2010,4,56.4
+Gold Coast,2010,5,237.0
+Gold Coast,2010,6,12.4
+Gold Coast,2010,7,68.4
+Gold Coast,2010,8,83.4
+Gold Coast,2010,9,94.2
+Gold Coast,2010,10,374.40000000000003
+Gold Coast,2010,11,46.4
+Gold Coast,2010,12,490.4
+Gold Coast,2011,1,161.0
+Gold Coast,2011,2,105.2
+Gold Coast,2011,3,222.4
+Gold Coast,2011,5,65.4
+Gold Coast,2011,6,20.4
+Gold Coast,2011,7,26.400000000000002
+Gold Coast,2011,8,125.6
+Gold Coast,2011,9,19.0
+Gold Coast,2011,10,103.0
+Gold Coast,2011,11,36.0
+Gold Coast,2011,12,157.0
+Gold Coast,2012,1,399.8
+Gold Coast,2012,2,146.8
+Gold Coast,2012,3,121.2
+Gold Coast,2012,4,318.20000000000005
+Gold Coast,2012,5,74.19999999999999
+Gold Coast,2012,6,203.4
+Gold Coast,2012,7,76.8
+Gold Coast,2012,8,0.8
+Gold Coast,2012,9,20.4
+Gold Coast,2012,10,18.8
+Gold Coast,2012,11,54.6
+Gold Coast,2013,1,253.0
+Gold Coast,2013,3,217.2
+Gold Coast,2013,4,232.6
+Gold Coast,2013,5,94.4
+Gold Coast,2013,6,145.8
+Gold Coast,2013,7,131.2
+Gold Coast,2013,8,1.8
+Gold Coast,2013,9,36.8
+Gold Coast,2013,10,13.2
+Gold Coast,2013,11,98.2
+Gold Coast,2013,12,20.8
+Gold Coast,2014,1,59.800000000000004
+Gold Coast,2014,2,23.8
+Gold Coast,2014,3,158.6
+Gold Coast,2014,4,64.0
+Gold Coast,2014,5,39.800000000000004
+Gold Coast,2014,6,24.8
+Gold Coast,2014,7,8.799999999999999
+Gold Coast,2014,8,173.0
+Gold Coast,2014,9,65.0
+Gold Coast,2014,10,1.6
+Gold Coast,2014,11,24.599999999999998
+Gold Coast,2014,12,196.0
+Gold Coast,2015,1,388.20000000000005
+Gold Coast,2015,2,345.2
+Gold Coast,2015,3,83.8
+Gold Coast,2015,4,303.6
+Gold Coast,2015,5,103.6
+Gold Coast,2015,6,88.8
+Gold Coast,2015,7,77.60000000000001
+Gold Coast,2015,8,36.0
+Gold Coast,2015,9,41.0
+Gold Coast,2015,10,27.599999999999998
+Gold Coast,2015,11,87.4
+Gold Coast,2015,12,70.4
+Gold Coast,2016,1,67.2
+Gold Coast,2016,2,58.800000000000004
+Gold Coast,2016,3,68.60000000000001
+Gold Coast,2016,4,107.0
+Gold Coast,2016,5,17.4
+Gold Coast,2016,6,281.8
+Gold Coast,2016,7,16.400000000000002
+Gold Coast,2016,8,67.0
+Gold Coast,2016,9,34.199999999999996
+Gold Coast,2016,10,31.599999999999998
+Gold Coast,2016,11,25.8
+Gold Coast,2016,12,56.6
+Gold Coast,2017,1,119.6
+Gold Coast,2017,2,23.4
+Gold Coast,2017,3,394.0
+Gold Coast,2017,4,35.400000000000006
+Gold Coast,2017,5,77.8
+Gold Coast,2017,6,124.4
+Hobart,2008,7,48.4
+Hobart,2008,8,38.6
+Hobart,2008,9,26.8
+Hobart,2008,10,19.6
+Hobart,2008,11,73.4
+Hobart,2008,12,39.2
+Hobart,2009,1,10.0
+Hobart,2009,2,59.2
+Hobart,2009,3,70.0
+Hobart,2009,4,63.8
+Hobart,2009,5,53.199999999999996
+Hobart,2009,6,144.0
+Hobart,2009,7,40.2
+Hobart,2009,8,98.39999999999999
+Hobart,2009,9,132.8
+Hobart,2009,10,64.6
+Hobart,2009,11,70.2
+Hobart,2009,12,58.6
+Hobart,2010,1,14.4
+Hobart,2010,2,34.8
+Hobart,2010,3,30.4
+Hobart,2010,4,18.2
+Hobart,2010,5,26.6
+Hobart,2010,6,10.600000000000001
+Hobart,2010,7,5.800000000000001
+Hobart,2010,8,114.0
+Hobart,2010,9,93.4
+Hobart,2010,10,46.199999999999996
+Hobart,2010,11,95.2
+Hobart,2010,12,31.0
+Hobart,2011,1,59.800000000000004
+Hobart,2011,2,54.4
+Hobart,2011,3,45.4
+Hobart,2011,5,23.6
+Hobart,2011,6,64.4
+Hobart,2011,7,50.2
+Hobart,2011,8,53.199999999999996
+Hobart,2011,9,45.6
+Hobart,2011,10,61.2
+Hobart,2011,11,55.2
+Hobart,2011,12,52.4
+Hobart,2012,1,56.0
+Hobart,2012,2,22.6
+Hobart,2012,3,30.8
+Hobart,2012,4,22.0
+Hobart,2012,5,92.2
+Hobart,2012,6,33.2
+Hobart,2012,7,18.2
+Hobart,2012,8,57.8
+Hobart,2012,9,68.0
+Hobart,2012,10,29.0
+Hobart,2012,11,24.8
+Hobart,2013,1,11.4
+Hobart,2013,3,48.6
+Hobart,2013,4,21.200000000000003
+Hobart,2013,5,23.0
+Hobart,2013,6,51.0
+Hobart,2013,7,101.4
+Hobart,2013,8,61.0
+Hobart,2013,9,40.0
+Hobart,2013,10,106.6
+Hobart,2013,11,94.0
+Hobart,2013,12,28.2
+Hobart,2014,1,16.2
+Hobart,2014,2,27.6
+Hobart,2014,3,23.4
+Hobart,2014,4,42.0
+Hobart,2014,5,30.6
+Hobart,2014,6,20.6
+Hobart,2014,7,95.80000000000001
+Hobart,2014,8,46.2
+Hobart,2014,9,19.4
+Hobart,2014,10,49.6
+Hobart,2014,11,34.8
+Hobart,2014,12,78.0
+Hobart,2015,1,121.6
+Hobart,2015,2,21.6
+Hobart,2015,3,51.2
+Hobart,2015,4,12.4
+Hobart,2015,5,75.8
+Hobart,2015,6,44.2
+Hobart,2015,7,23.0
+Hobart,2015,8,63.800000000000004
+Hobart,2015,9,25.0
+Hobart,2015,10,14.4
+Hobart,2015,11,40.4
+Hobart,2015,12,35.0
+Hobart,2016,1,40.2
+Hobart,2016,2,21.8
+Hobart,2016,3,17.0
+Hobart,2016,4,8.8
+Hobart,2016,5,96.0
+Hobart,2016,6,115.4
+Hobart,2016,7,79.2
+Hobart,2016,8,15.799999999999999
+Hobart,2016,9,94.19999999999999
+Hobart,2016,10,83.4
+Hobart,2016,11,65.2
+Hobart,2016,12,56.6
+Hobart,2017,1,60.0
+Hobart,2017,2,10.4
+Hobart,2017,3,37.0
+Hobart,2017,4,21.599999999999998
+Hobart,2017,5,28.4
+Hobart,2017,6,5.0
+Katherine,2013,3,389.0
+Katherine,2013,4,103.2
+Katherine,2013,5,0.0
+Katherine,2013,6,0.1
+Katherine,2013,7,0.0
+Katherine,2013,8,0.0
+Katherine,2013,9,0.0
+Katherine,2013,10,14.399999999999999
+Katherine,2013,11,143.0
+Katherine,2013,12,165.9
+Katherine,2014,1,281.7
+Katherine,2014,2,326.59999999999997
+Katherine,2014,3,111.39999999999999
+Katherine,2014,4,26.8
+Katherine,2014,5,0.0
+Katherine,2014,6,0.0
+Katherine,2014,7,0.0
+Katherine,2014,8,0.0
+Katherine,2014,9,0.0
+Katherine,2014,10,2.0
+Katherine,2014,11,93.19999999999999
+Katherine,2014,12,291.2
+Katherine,2015,1,209.2
+Katherine,2015,2,107.4
+Katherine,2015,3,134.0
+Katherine,2015,4,0.0
+Katherine,2015,5,8.2
+Katherine,2015,6,0.0
+Katherine,2015,7,0.0
+Katherine,2015,8,0.0
+Katherine,2015,9,0.0
+Katherine,2015,10,0.0
+Katherine,2015,11,97.2
+Katherine,2015,12,596.6
+Katherine,2016,1,251.5
+Katherine,2016,2,112.8
+Katherine,2016,3,100.6
+Katherine,2016,4,18.8
+Katherine,2016,5,44.6
+Katherine,2016,6,0.0
+Katherine,2016,7,5.2
+Katherine,2016,8,0.0
+Katherine,2016,9,58.0
+Katherine,2016,10,4.4
+Katherine,2016,11,40.5
+Katherine,2016,12,122.4
+Katherine,2017,1,470.40000000000003
+Katherine,2017,2,322.4
+Katherine,2017,3,318.8
+Katherine,2017,4,22.2
+Katherine,2017,5,0.0
+Katherine,2017,6,0.0
+Launceston,2008,12,54.6
+Launceston,2009,1,7.3
+Launceston,2009,2,37.6
+Launceston,2009,3,52.5
+Launceston,2009,4,77.8
+Launceston,2009,5,13.2
+Launceston,2009,6,85.7
+Launceston,2009,7,100.4
+Launceston,2009,8,172.4
+Launceston,2009,9,78.3
+Launceston,2009,10,40.5
+Launceston,2009,11,59.6
+Launceston,2009,12,23.1
+Launceston,2010,1,7.3999999999999995
+Launceston,2010,2,42.1
+Launceston,2010,3,62.6
+Launceston,2010,4,97.3
+Launceston,2010,5,46.7
+Launceston,2010,6,107.8
+Launceston,2010,7,75.9
+Launceston,2010,8,116.9
+Launceston,2010,9,78.8
+Launceston,2010,10,51.6
+Launceston,2010,11,53.800000000000004
+Launceston,2010,12,93.0
+Launceston,2011,1,54.4
+Launceston,2011,2,43.199999999999996
+Launceston,2011,3,88.2
+Launceston,2011,5,38.3
+Launceston,2011,6,115.5
+Launceston,2011,7,38.0
+Launceston,2011,8,91.4
+Launceston,2011,9,31.2
+Launceston,2011,10,42.8
+Launceston,2011,11,123.4
+Launceston,2011,12,26.4
+Launceston,2012,1,22.200000000000003
+Launceston,2012,2,47.9
+Launceston,2012,3,38.6
+Launceston,2012,4,38.2
+Launceston,2012,5,94.39999999999999
+Launceston,2012,6,63.199999999999996
+Launceston,2012,7,39.7
+Launceston,2012,8,70.4
+Launceston,2012,9,92.0
+Launceston,2012,10,11.4
+Launceston,2012,11,59.0
+Launceston,2013,1,15.8
+Launceston,2013,3,64.0
+Launceston,2013,4,19.400000000000002
+Launceston,2013,5,61.9
+Launceston,2013,6,24.8
+Launceston,2013,7,114.9
+Launceston,2013,8,223.0
+Launceston,2013,9,88.2
+Launceston,2013,10,86.2
+Launceston,2013,11,131.2
+Launceston,2013,12,38.1
+Launceston,2014,1,15.4
+Launceston,2014,2,8.6
+Launceston,2014,3,67.8
+Launceston,2014,4,74.19999999999999
+Launceston,2014,5,51.0
+Launceston,2014,6,62.4
+Launceston,2014,7,131.3
+Launceston,2014,8,19.5
+Launceston,2014,9,55.4
+Launceston,2014,10,44.6
+Launceston,2014,11,8.5
+Launceston,2014,12,42.6
+Launceston,2015,1,64.6
+Launceston,2015,2,20.2
+Launceston,2015,3,58.4
+Launceston,2015,4,24.3
+Launceston,2015,5,89.3
+Launceston,2015,6,44.4
+Launceston,2015,7,67.5
+Launceston,2015,8,47.1
+Launceston,2015,9,28.3
+Launceston,2015,10,1.4
+Launceston,2015,11,36.0
+Launceston,2015,12,28.299999999999997
+Launceston,2016,1,153.8
+Launceston,2016,2,24.599999999999998
+Launceston,2016,3,49.5
+Launceston,2016,4,27.6
+Launceston,2016,5,133.7
+Launceston,2016,6,134.5
+Launceston,2016,7,140.9
+Launceston,2016,8,64.6
+Launceston,2016,9,81.2
+Launceston,2016,10,73.7
+Launceston,2016,11,55.2
+Launceston,2016,12,70.9
+Launceston,2017,1,44.6
+Launceston,2017,2,12.0
+Launceston,2017,3,19.6
+Launceston,2017,4,35.2
+Launceston,2017,5,85.4
+Launceston,2017,6,20.0
+Melbourne,2008,7,44.4
+Melbourne,2008,8,44.8
+Melbourne,2008,9,12.0
+Melbourne,2008,10,14.200000000000001
+Melbourne,2008,11,54.2
+Melbourne,2008,12,76.80000000000001
+Melbourne,2009,1,0.7999999999999999
+Melbourne,2009,2,3.0
+Melbourne,2009,3,47.6
+Melbourne,2009,4,39.2
+Melbourne,2009,5,10.6
+Melbourne,2009,6,25.8
+Melbourne,2009,7,39.6
+Melbourne,2009,8,41.2
+Melbourne,2009,9,71.2
+Melbourne,2009,10,22.0
+Melbourne,2009,11,103.6
+Melbourne,2009,12,60.199999999999996
+Melbourne,2010,1,25.6
+Melbourne,2010,2,62.8
+Melbourne,2010,3,84.8
+Melbourne,2010,4,21.4
+Melbourne,2010,5,25.0
+Melbourne,2010,6,63.4
+Melbourne,2010,7,30.8
+Melbourne,2010,8,64.6
+Melbourne,2010,9,53.0
+Melbourne,2010,10,144.8
+Melbourne,2010,11,115.19999999999999
+Melbourne,2010,12,85.2
+Melbourne,2011,1,89.39999999999999
+Melbourne,2011,2,126.00000000000001
+Melbourne,2011,3,30.400000000000002
+Melbourne,2011,5,68.39999999999999
+Melbourne,2011,6,32.6
+Melbourne,2011,7,36.4
+Melbourne,2011,8,19.400000000000002
+Melbourne,2011,9,72.0
+Melbourne,2011,10,63.2
+Melbourne,2011,11,108.8
+Melbourne,2011,12,80.2
+Melbourne,2012,1,29.4
+Melbourne,2012,2,59.800000000000004
+Melbourne,2012,3,59.0
+Melbourne,2012,4,50.6
+Melbourne,2012,5,82.6
+Melbourne,2012,6,70.6
+Melbourne,2012,7,59.0
+Melbourne,2012,8,52.8
+Melbourne,2012,9,39.199999999999996
+Melbourne,2012,10,29.8
+Melbourne,2012,11,37.2
+Melbourne,2013,1,7.6000000000000005
+Melbourne,2013,3,41.4
+Melbourne,2013,4,28.0
+Melbourne,2013,5,38.0
+Melbourne,2013,6,99.8
+Melbourne,2013,7,62.4
+Melbourne,2013,8,58.6
+Melbourne,2013,9,87.2
+Melbourne,2013,10,51.4
+Melbourne,2013,11,59.199999999999996
+Melbourne,2013,12,41.0
+Melbourne,2014,1,13.6
+Melbourne,2014,2,25.6
+Melbourne,2014,3,26.2
+Melbourne,2014,4,76.8
+Melbourne,2014,5,35.199999999999996
+Melbourne,2014,6,53.4
+Melbourne,2014,7,19.0
+Melbourne,2014,8,37.2
+Melbourne,2014,9,34.2
+Melbourne,2014,10,52.2
+Melbourne,2014,11,59.599999999999994
+Melbourne,2014,12,39.8
+Melbourne,2015,1,5.6000000000000005
+Melbourne,2015,2,0.0
+Melbourne,2015,3,0.0
+Melbourne,2015,4,0.0
+Melbourne,2015,5,0.0
+Melbourne,2015,6,0.0
+Melbourne,2015,7,0.0
+Melbourne,2015,8,0.0
+Melbourne,2015,9,0.0
+Melbourne,2015,10,0.0
+Melbourne,2015,11,0.0
+Melbourne,2015,12,0.0
+Melbourne,2016,1,0.0
+Melbourne,2016,2,0.0
+Melbourne,2016,3,0.0
+Melbourne,2016,4,0.0
+Melbourne,2016,5,57.0
+Melbourne,2016,6,54.4
+Melbourne,2016,7,64.2
+Melbourne,2016,8,61.2
+Melbourne,2016,9,87.2
+Melbourne,2016,10,63.4
+Melbourne,2016,11,31.4
+Melbourne,2016,12,39.599999999999994
+Melbourne,2017,1,31.6
+Melbourne,2017,2,40.199999999999996
+Melbourne,2017,3,26.400000000000002
+Melbourne,2017,4,123.4
+Melbourne,2017,5,25.0
+Melbourne,2017,6,11.0
+Melbourne Airport,2009,1,1.6
+Melbourne Airport,2009,2,6.0
+Melbourne Airport,2009,3,35.8
+Melbourne Airport,2009,4,33.4
+Melbourne Airport,2009,5,11.200000000000001
+Melbourne Airport,2009,6,19.4
+Melbourne Airport,2009,7,25.2
+Melbourne Airport,2009,8,35.6
+Melbourne Airport,2009,9,55.0
+Melbourne Airport,2009,10,20.200000000000003
+Melbourne Airport,2009,11,117.0
+Melbourne Airport,2009,12,37.400000000000006
+Melbourne Airport,2010,1,26.799999999999997
+Melbourne Airport,2010,2,36.6
+Melbourne Airport,2010,3,88.0
+Melbourne Airport,2010,4,18.0
+Melbourne Airport,2010,5,31.4
+Melbourne Airport,2010,6,47.0
+Melbourne Airport,2010,7,27.4
+Melbourne Airport,2010,8,64.8
+Melbourne Airport,2010,9,42.0
+Melbourne Airport,2010,10,131.2
+Melbourne Airport,2010,11,130.0
+Melbourne Airport,2010,12,84.2
+Melbourne Airport,2011,1,97.2
+Melbourne Airport,2011,2,87.39999999999999
+Melbourne Airport,2011,3,26.8
+Melbourne Airport,2011,5,42.8
+Melbourne Airport,2011,6,20.2
+Melbourne Airport,2011,7,22.2
+Melbourne Airport,2011,8,15.4
+Melbourne Airport,2011,9,76.0
+Melbourne Airport,2011,10,72.8
+Melbourne Airport,2011,11,112.0
+Melbourne Airport,2011,12,60.6
+Melbourne Airport,2012,1,10.6
+Melbourne Airport,2012,2,81.6
+Melbourne Airport,2012,3,64.0
+Melbourne Airport,2012,4,35.4
+Melbourne Airport,2012,5,54.0
+Melbourne Airport,2012,6,55.4
+Melbourne Airport,2012,7,34.2
+Melbourne Airport,2012,8,50.4
+Melbourne Airport,2012,9,29.8
+Melbourne Airport,2012,10,25.0
+Melbourne Airport,2012,11,22.4
+Melbourne Airport,2013,1,9.799999999999999
+Melbourne Airport,2013,3,44.2
+Melbourne Airport,2013,4,24.2
+Melbourne Airport,2013,5,26.0
+Melbourne Airport,2013,6,126.0
+Melbourne Airport,2013,7,35.0
+Melbourne Airport,2013,8,38.199999999999996
+Melbourne Airport,2013,9,66.0
+Melbourne Airport,2013,10,42.6
+Melbourne Airport,2013,11,56.8
+Melbourne Airport,2013,12,35.8
+Melbourne Airport,2014,1,8.4
+Melbourne Airport,2014,2,14.0
+Melbourne Airport,2014,3,25.4
+Melbourne Airport,2014,4,65.6
+Melbourne Airport,2014,5,17.8
+Melbourne Airport,2014,6,44.4
+Melbourne Airport,2014,7,20.6
+Melbourne Airport,2014,8,31.2
+Melbourne Airport,2014,9,47.2
+Melbourne Airport,2014,10,36.4
+Melbourne Airport,2014,11,50.199999999999996
+Melbourne Airport,2014,12,41.4
+Melbourne Airport,2015,1,30.0
+Melbourne Airport,2015,2,38.8
+Melbourne Airport,2015,3,22.2
+Melbourne Airport,2015,4,35.199999999999996
+Melbourne Airport,2015,5,25.4
+Melbourne Airport,2015,6,23.4
+Melbourne Airport,2015,7,63.6
+Melbourne Airport,2015,8,19.4
+Melbourne Airport,2015,9,27.799999999999997
+Melbourne Airport,2015,10,16.6
+Melbourne Airport,2015,11,54.2
+Melbourne Airport,2015,12,44.800000000000004
+Melbourne Airport,2016,1,44.8
+Melbourne Airport,2016,2,4.4
+Melbourne Airport,2016,3,27.2
+Melbourne Airport,2016,4,36.4
+Melbourne Airport,2016,5,47.0
+Melbourne Airport,2016,6,66.4
+Melbourne Airport,2016,7,63.4
+Melbourne Airport,2016,8,30.599999999999998
+Melbourne Airport,2016,9,99.8
+Melbourne Airport,2016,10,77.39999999999999
+Melbourne Airport,2016,11,39.8
+Melbourne Airport,2016,12,77.4
+Melbourne Airport,2017,1,25.6
+Melbourne Airport,2017,2,32.4
+Melbourne Airport,2017,3,33.4
+Melbourne Airport,2017,4,98.2
+Melbourne Airport,2017,5,20.0
+Melbourne Airport,2017,6,14.8
+Mildura,2009,1,0.8
+Mildura,2009,2,0.0
+Mildura,2009,3,24.0
+Mildura,2009,4,21.8
+Mildura,2009,5,9.4
+Mildura,2009,6,37.0
+Mildura,2009,7,11.8
+Mildura,2009,8,8.2
+Mildura,2009,9,30.4
+Mildura,2009,10,10.8
+Mildura,2009,11,65.6
+Mildura,2009,12,13.2
+Mildura,2010,1,8.4
+Mildura,2010,2,19.799999999999997
+Mildura,2010,3,35.8
+Mildura,2010,4,18.8
+Mildura,2010,5,51.2
+Mildura,2010,6,14.600000000000001
+Mildura,2010,7,25.6
+Mildura,2010,8,28.8
+Mildura,2010,9,54.8
+Mildura,2010,10,88.80000000000001
+Mildura,2010,11,103.6
+Mildura,2010,12,141.0
+Mildura,2011,1,129.39999999999998
+Mildura,2011,2,192.6
+Mildura,2011,3,119.8
+Mildura,2011,5,14.200000000000001
+Mildura,2011,6,10.6
+Mildura,2011,7,15.2
+Mildura,2011,8,20.8
+Mildura,2011,9,7.199999999999999
+Mildura,2011,10,27.400000000000002
+Mildura,2011,11,43.400000000000006
+Mildura,2011,12,61.8
+Mildura,2012,1,12.6
+Mildura,2012,2,36.599999999999994
+Mildura,2012,3,64.2
+Mildura,2012,4,4.0
+Mildura,2012,5,2.4
+Mildura,2012,6,8.0
+Mildura,2012,7,41.4
+Mildura,2012,8,16.2
+Mildura,2012,9,13.2
+Mildura,2012,10,6.0
+Mildura,2012,11,3.6
+Mildura,2013,1,1.2
+Mildura,2013,3,10.8
+Mildura,2013,4,6.199999999999999
+Mildura,2013,5,29.2
+Mildura,2013,6,35.800000000000004
+Mildura,2013,7,14.8
+Mildura,2013,8,10.4
+Mildura,2013,9,18.8
+Mildura,2013,10,14.4
+Mildura,2013,11,2.4
+Mildura,2013,12,57.8
+Mildura,2014,1,0.6000000000000001
+Mildura,2014,2,67.2
+Mildura,2014,3,29.2
+Mildura,2014,4,57.6
+Mildura,2014,5,22.8
+Mildura,2014,6,6.3999999999999995
+Mildura,2014,7,13.0
+Mildura,2014,8,18.2
+Mildura,2014,9,18.6
+Mildura,2014,10,0.6
+Mildura,2014,11,13.4
+Mildura,2014,12,9.6
+Mildura,2015,1,57.0
+Mildura,2015,2,0.6
+Mildura,2015,3,0.0
+Mildura,2015,4,93.0
+Mildura,2015,5,10.2
+Mildura,2015,6,30.6
+Mildura,2015,7,14.3
+Mildura,2015,8,12.8
+Mildura,2015,9,13.600000000000001
+Mildura,2015,10,5.1
+Mildura,2015,11,6.4
+Mildura,2015,12,1.6
+Mildura,2016,1,68.2
+Mildura,2016,2,0.2
+Mildura,2016,3,0.4
+Mildura,2016,4,3.0
+Mildura,2016,5,43.4
+Mildura,2016,6,18.2
+Mildura,2016,7,19.2
+Mildura,2016,8,30.799999999999997
+Mildura,2016,9,93.6
+Mildura,2016,10,24.8
+Mildura,2016,11,51.2
+Mildura,2016,12,5.6
+Mildura,2017,1,29.4
+Mildura,2017,2,5.2
+Mildura,2017,3,4.2
+Mildura,2017,4,44.0
+Mildura,2017,5,19.6
+Mildura,2017,6,1.8
+Moree,2009,1,88.60000000000001
+Moree,2009,2,143.39999999999998
+Moree,2009,3,1.6
+Moree,2009,4,49.0
+Moree,2009,5,46.0
+Moree,2009,6,19.0
+Moree,2009,7,11.6
+Moree,2009,8,4.2
+Moree,2009,9,23.8
+Moree,2009,10,14.200000000000001
+Moree,2009,11,14.400000000000002
+Moree,2009,12,123.2
+Moree,2010,1,76.0
+Moree,2010,2,64.0
+Moree,2010,3,48.8
+Moree,2010,4,12.4
+Moree,2010,5,29.4
+Moree,2010,6,15.8
+Moree,2010,7,83.6
+Moree,2010,8,37.8
+Moree,2010,9,69.2
+Moree,2010,10,80.6
+Moree,2010,11,102.0
+Moree,2010,12,32.6
+Moree,2011,1,27.6
+Moree,2011,2,89.0
+Moree,2011,3,35.2
+Moree,2011,5,22.4
+Moree,2011,6,54.8
+Moree,2011,7,7.0
+Moree,2011,8,56.8
+Moree,2011,9,59.2
+Moree,2011,10,73.2
+Moree,2011,11,222.2
+Moree,2011,12,134.8
+Moree,2012,1,131.2
+Moree,2012,2,207.4
+Moree,2012,3,10.0
+Moree,2012,4,22.6
+Moree,2012,5,40.400000000000006
+Moree,2012,6,21.4
+Moree,2012,7,95.0
+Moree,2012,8,2.8
+Moree,2012,9,10.8
+Moree,2012,10,9.6
+Moree,2012,11,6.0
+Moree,2013,1,178.4
+Moree,2013,3,81.6
+Moree,2013,4,10.4
+Moree,2013,5,34.599999999999994
+Moree,2013,6,31.8
+Moree,2013,7,27.0
+Moree,2013,8,4.8
+Moree,2013,9,25.0
+Moree,2013,10,22.400000000000002
+Moree,2013,11,27.4
+Moree,2013,12,9.0
+Moree,2014,1,21.2
+Moree,2014,2,35.6
+Moree,2014,3,89.6
+Moree,2014,4,10.0
+Moree,2014,5,2.4
+Moree,2014,6,23.8
+Moree,2014,7,5.0
+Moree,2014,8,27.799999999999997
+Moree,2014,9,24.0
+Moree,2014,10,16.2
+Moree,2014,11,32.6
+Moree,2014,12,66.6
+Moree,2015,1,104.8
+Moree,2015,2,4.4
+Moree,2015,3,60.0
+Moree,2015,4,62.6
+Moree,2015,5,33.0
+Moree,2015,6,62.4
+Moree,2015,7,35.0
+Moree,2015,8,10.6
+Moree,2015,9,4.0
+Moree,2015,10,9.6
+Moree,2015,11,74.2
+Moree,2015,12,61.2
+Moree,2016,1,86.0
+Moree,2016,2,3.2
+Moree,2016,3,8.0
+Moree,2016,4,13.6
+Moree,2016,5,34.8
+Moree,2016,6,63.199999999999996
+Moree,2016,7,14.599999999999998
+Moree,2016,8,50.0
+Moree,2016,9,138.6
+Moree,2016,10,56.8
+Moree,2016,11,23.200000000000003
+Moree,2016,12,35.199999999999996
+Moree,2017,1,19.4
+Moree,2017,2,12.6
+Moree,2017,3,156.2
+Moree,2017,4,22.6
+Moree,2017,5,52.199999999999996
+Moree,2017,6,2.8
+Mount Gambier,2008,12,118.39999999999999
+Mount Gambier,2009,1,5.4
+Mount Gambier,2009,2,1.4000000000000001
+Mount Gambier,2009,3,49.800000000000004
+Mount Gambier,2009,4,66.2
+Mount Gambier,2009,5,29.599999999999998
+Mount Gambier,2009,6,59.2
+Mount Gambier,2009,7,158.2
+Mount Gambier,2009,8,142.4
+Mount Gambier,2009,9,116.39999999999999
+Mount Gambier,2009,10,75.80000000000001
+Mount Gambier,2009,11,55.0
+Mount Gambier,2009,12,34.2
+Mount Gambier,2010,1,14.0
+Mount Gambier,2010,2,47.0
+Mount Gambier,2010,3,19.8
+Mount Gambier,2010,4,65.8
+Mount Gambier,2010,5,49.2
+Mount Gambier,2010,6,72.8
+Mount Gambier,2010,7,98.19999999999999
+Mount Gambier,2010,8,163.0
+Mount Gambier,2010,9,78.2
+Mount Gambier,2010,10,59.800000000000004
+Mount Gambier,2010,11,42.6
+Mount Gambier,2010,12,100.8
+Mount Gambier,2011,1,121.6
+Mount Gambier,2011,2,54.8
+Mount Gambier,2011,3,56.6
+Mount Gambier,2011,5,82.6
+Mount Gambier,2011,6,89.8
+Mount Gambier,2011,7,79.2
+Mount Gambier,2011,8,97.2
+Mount Gambier,2011,9,62.0
+Mount Gambier,2011,10,44.800000000000004
+Mount Gambier,2011,11,72.6
+Mount Gambier,2011,12,29.200000000000003
+Mount Gambier,2012,1,13.8
+Mount Gambier,2012,2,7.6000000000000005
+Mount Gambier,2012,3,49.800000000000004
+Mount Gambier,2012,4,45.4
+Mount Gambier,2012,5,83.2
+Mount Gambier,2012,6,118.0
+Mount Gambier,2012,7,78.4
+Mount Gambier,2012,8,106.6
+Mount Gambier,2012,9,51.6
+Mount Gambier,2012,10,31.4
+Mount Gambier,2012,11,19.2
+Mount Gambier,2013,1,7.4
+Mount Gambier,2013,3,27.2
+Mount Gambier,2013,4,41.8
+Mount Gambier,2013,5,68.8
+Mount Gambier,2013,6,82.2
+Mount Gambier,2013,7,159.0
+Mount Gambier,2013,8,177.8
+Mount Gambier,2013,9,58.8
+Mount Gambier,2013,10,116.8
+Mount Gambier,2013,11,47.4
+Mount Gambier,2013,12,30.8
+Mount Gambier,2014,1,27.4
+Mount Gambier,2014,2,22.200000000000003
+Mount Gambier,2014,3,40.4
+Mount Gambier,2014,4,62.8
+Mount Gambier,2014,5,111.0
+Mount Gambier,2014,6,142.6
+Mount Gambier,2014,7,84.2
+Mount Gambier,2014,8,43.4
+Mount Gambier,2014,9,31.8
+Mount Gambier,2014,10,25.2
+Mount Gambier,2014,11,19.4
+Mount Gambier,2014,12,29.0
+Mount Gambier,2015,1,45.4
+Mount Gambier,2015,2,4.0
+Mount Gambier,2015,3,31.4
+Mount Gambier,2015,4,61.599999999999994
+Mount Gambier,2015,5,94.6
+Mount Gambier,2015,6,41.8
+Mount Gambier,2015,7,91.39999999999999
+Mount Gambier,2015,8,57.800000000000004
+Mount Gambier,2015,9,53.0
+Mount Gambier,2015,10,3.6
+Mount Gambier,2015,11,23.2
+Mount Gambier,2015,12,11.8
+Mount Gambier,2016,1,13.200000000000001
+Mount Gambier,2016,2,48.4
+Mount Gambier,2016,3,28.4
+Mount Gambier,2016,4,31.4
+Mount Gambier,2016,5,106.6
+Mount Gambier,2016,6,163.0
+Mount Gambier,2016,7,153.4
+Mount Gambier,2016,8,80.60000000000001
+Mount Gambier,2016,9,110.4
+Mount Gambier,2016,10,71.0
+Mount Gambier,2016,11,49.599999999999994
+Mount Gambier,2016,12,55.8
+Mount Gambier,2017,1,53.8
+Mount Gambier,2017,2,30.400000000000002
+Mount Gambier,2017,3,74.8
+Mount Gambier,2017,4,62.8
+Mount Gambier,2017,5,86.0
+Mount Gambier,2017,6,12.200000000000001
+Mount Ginini,2008,12,97.8
+Mount Ginini,2009,1,78.8
+Mount Ginini,2009,2,17.0
+Mount Ginini,2009,3,16.0
+Mount Ginini,2009,4,139.79999999999998
+Mount Ginini,2009,5,29.0
+Mount Ginini,2009,6,99.80000000000001
+Mount Ginini,2009,7,112.6
+Mount Ginini,2009,8,103.80000000000001
+Mount Ginini,2009,9,142.0
+Mount Ginini,2009,10,112.4
+Mount Ginini,2009,11,62.0
+Mount Ginini,2009,12,111.39999999999999
+Mount Ginini,2010,1,37.0
+Mount Ginini,2010,2,112.0
+Mount Ginini,2010,3,138.0
+Mount Ginini,2010,4,22.4
+Mount Ginini,2010,5,99.0
+Mount Ginini,2010,6,73.39999999999999
+Mount Ginini,2010,7,69.0
+Mount Ginini,2010,8,189.8
+Mount Ginini,2010,9,123.39999999999999
+Mount Ginini,2010,10,275.2
+Mount Ginini,2010,11,210.0
+Mount Ginini,2010,12,242.6
+Mount Ginini,2011,1,151.8
+Mount Ginini,2011,2,241.20000000000002
+Mount Ginini,2011,3,95.6
+Mount Ginini,2011,5,72.2
+Mount Ginini,2011,6,24.8
+Mount Ginini,2011,7,95.8
+Mount Ginini,2011,8,106.8
+Mount Ginini,2011,9,75.19999999999999
+Mount Ginini,2011,10,59.0
+Mount Ginini,2011,11,258.0
+Mount Ginini,2011,12,172.8
+Mount Ginini,2012,1,115.2
+Mount Ginini,2012,2,225.8
+Mount Ginini,2012,3,303.4
+Mount Ginini,2012,4,96.8
+Mount Ginini,2012,5,53.800000000000004
+Mount Ginini,2012,6,58.0
+Mount Ginini,2012,7,106.0
+Mount Ginini,2012,8,36.199999999999996
+Mount Ginini,2012,9,83.4
+Mount Ginini,2012,10,44.6
+Mount Ginini,2012,11,86.4
+Mount Ginini,2013,1,43.599999999999994
+Mount Ginini,2013,3,60.6
+Mount Ginini,2013,4,30.4
+Mount Ginini,2013,5,52.6
+Mount Ginini,2013,6,113.6
+Mount Ginini,2013,7,127.0
+Mount Ginini,2013,8,112.2
+Mount Ginini,2013,9,147.6
+Mount Ginini,2013,10,46.6
+Mount Ginini,2013,11,61.800000000000004
+Mount Ginini,2013,12,27.0
+Mount Ginini,2014,1,21.4
+Mount Ginini,2014,2,134.4
+Mount Ginini,2014,3,113.0
+Mount Ginini,2014,4,91.6
+Mount Ginini,2014,5,35.2
+Mount Ginini,2014,6,124.6
+Mount Ginini,2014,7,67.8
+Mount Ginini,2014,8,39.6
+Mount Ginini,2014,9,38.4
+Mount Ginini,2014,10,54.199999999999996
+Mount Ginini,2014,11,63.2
+Mount Ginini,2014,12,121.0
+Mount Ginini,2015,1,100.6
+Mount Ginini,2015,2,56.8
+Mount Ginini,2015,3,6.8
+Mount Ginini,2015,4,120.4
+Mount Ginini,2015,5,51.4
+Mount Ginini,2015,6,86.39999999999999
+Mount Ginini,2015,7,99.6
+Mount Ginini,2015,8,88.2
+Mount Ginini,2015,9,19.2
+Mount Ginini,2015,10,19.8
+Mount Ginini,2015,11,135.2
+Mount Ginini,2015,12,45.8
+Mount Ginini,2016,1,145.4
+Mount Ginini,2016,2,41.4
+Mount Ginini,2016,3,54.8
+Mount Ginini,2016,4,15.6
+Mount Ginini,2016,5,106.39999999999999
+Mount Ginini,2016,6,274.6
+Mount Ginini,2016,7,197.0
+Mount Ginini,2016,8,70.6
+Mount Ginini,2016,9,241.2
+Mount Ginini,2016,10,108.0
+Mount Ginini,2016,11,57.8
+Mount Ginini,2016,12,92.0
+Mount Ginini,2017,1,30.799999999999997
+Mount Ginini,2017,2,21.4
+Mount Ginini,2017,3,63.6
+Mount Ginini,2017,4,90.2
+Mount Ginini,2017,5,116.8
+Mount Ginini,2017,6,8.4
+Newcastle,2008,12,45.0
+Newcastle,2009,1,16.0
+Newcastle,2009,2,263.99999999999994
+Newcastle,2009,3,45.2
+Newcastle,2009,4,139.6
+Newcastle,2009,5,156.9
+Newcastle,2009,6,144.6
+Newcastle,2009,7,30.8
+Newcastle,2009,8,0.4
+Newcastle,2009,9,14.8
+Newcastle,2009,10,63.8
+Newcastle,2009,11,44.4
+Newcastle,2009,12,75.2
+Newcastle,2010,1,109.0
+Newcastle,2010,2,12.0
+Newcastle,2010,3,115.19999999999999
+Newcastle,2010,4,23.8
+Newcastle,2010,5,124.0
+Newcastle,2010,6,144.7
+Newcastle,2010,7,104.1
+Newcastle,2010,8,68.3
+Newcastle,2010,9,24.2
+Newcastle,2010,10,56.0
+Newcastle,2010,11,189.6
+Newcastle,2010,12,60.6
+Newcastle,2011,1,41.8
+Newcastle,2011,2,73.39999999999999
+Newcastle,2011,3,92.3
+Newcastle,2011,5,113.0
+Newcastle,2011,6,152.3
+Newcastle,2011,7,203.9
+Newcastle,2011,8,40.8
+Newcastle,2011,9,116.60000000000001
+Newcastle,2011,10,112.6
+Newcastle,2011,11,195.8
+Newcastle,2011,12,84.6
+Newcastle,2012,1,79.9
+Newcastle,2012,2,231.5
+Newcastle,2012,3,103.39999999999999
+Newcastle,2012,4,134.8
+Newcastle,2012,5,15.4
+Newcastle,2012,6,176.8
+Newcastle,2012,7,67.0
+Newcastle,2012,8,48.800000000000004
+Newcastle,2012,9,15.400000000000002
+Newcastle,2012,10,11.200000000000001
+Newcastle,2012,11,17.6
+Newcastle,2013,1,150.6
+Newcastle,2013,3,193.79999999999998
+Newcastle,2013,4,134.0
+Newcastle,2013,5,66.10000000000001
+Newcastle,2013,6,148.8
+Newcastle,2013,7,43.8
+Newcastle,2013,8,11.2
+Newcastle,2013,9,26.0
+Newcastle,2013,10,46.0
+Newcastle,2013,11,289.90000000000003
+Newcastle,2013,12,17.8
+Newcastle,2014,1,12.600000000000001
+Newcastle,2014,2,99.1
+Newcastle,2014,3,92.4
+Newcastle,2014,4,135.20000000000002
+Newcastle,2014,5,85.5
+Newcastle,2014,6,59.5
+Newcastle,2014,7,29.6
+Newcastle,2014,8,158.4
+Newcastle,2014,9,42.7
+Newcastle,2014,10,52.0
+Newcastle,2014,11,45.7
+Newcastle,2014,12,125.19999999999999
+Newcastle,2015,1,149.2
+Newcastle,2015,2,88.7
+Newcastle,2015,3,70.4
+Newcastle,2015,4,360.3
+Newcastle,2015,5,132.9
+Newcastle,2015,6,85.5
+Newcastle,2015,7,25.6
+Newcastle,2015,8,26.599999999999998
+Newcastle,2015,9,127.8
+Newcastle,2015,10,49.599999999999994
+Newcastle,2015,11,90.0
+Newcastle,2015,12,99.6
+Newcastle,2016,1,429.40000000000003
+Newcastle,2016,2,49.5
+Newcastle,2016,3,70.7
+Newcastle,2016,4,64.2
+Newcastle,2016,5,14.200000000000001
+Newcastle,2016,6,201.4
+Newcastle,2016,7,55.4
+Newcastle,2016,8,51.9
+Newcastle,2016,9,56.0
+Newcastle,2016,10,53.4
+Newcastle,2016,11,50.8
+Newcastle,2016,12,48.6
+Newcastle,2017,1,78.0
+Newcastle,2017,2,58.9
+Newcastle,2017,3,262.4
+Newcastle,2017,4,106.60000000000001
+Newcastle,2017,5,28.2
+Newcastle,2017,6,155.6
+Nhil,2013,3,6.0
+Nhil,2013,4,11.6
+Nhil,2013,5,27.0
+Nhil,2013,6,125.0
+Nhil,2013,7,61.8
+Nhil,2013,8,42.0
+Nhil,2013,9,42.0
+Nhil,2013,10,29.400000000000002
+Nhil,2013,11,3.4
+Nhil,2013,12,6.2
+Nhil,2014,1,5.8
+Nhil,2014,2,8.8
+Nhil,2014,3,4.8
+Nhil,2014,4,50.2
+Nhil,2014,5,43.8
+Nhil,2014,6,36.6
+Nhil,2014,7,27.8
+Nhil,2014,8,22.0
+Nhil,2014,9,14.8
+Nhil,2014,10,6.8
+Nhil,2014,11,6.8
+Nhil,2014,12,10.6
+Nhil,2015,1,70.8
+Nhil,2015,2,11.200000000000001
+Nhil,2015,3,2.8
+Nhil,2015,4,16.0
+Nhil,2015,5,22.4
+Nhil,2015,6,24.2
+Nhil,2015,7,21.2
+Nhil,2015,8,9.4
+Nhil,2015,9,25.2
+Nhil,2015,10,5.2
+Nhil,2015,11,19.0
+Nhil,2015,12,10.2
+Nhil,2016,1,37.0
+Nhil,2016,2,15.2
+Nhil,2016,3,34.6
+Nhil,2016,4,6.6
+Nhil,2016,5,41.0
+Nhil,2016,6,43.4
+Nhil,2016,7,61.8
+Nhil,2016,8,33.6
+Nhil,2016,9,93.4
+Nhil,2016,10,59.0
+Nhil,2016,11,13.599999999999998
+Nhil,2016,12,32.0
+Nhil,2017,1,23.2
+Nhil,2017,2,19.199999999999996
+Nhil,2017,3,14.6
+Nhil,2017,4,41.0
+Nhil,2017,5,64.0
+Nhil,2017,6,2.8000000000000003
+Norah Head,2009,1,18.6
+Norah Head,2009,2,140.8
+Norah Head,2009,3,49.60000000000001
+Norah Head,2009,4,81.4
+Norah Head,2009,5,207.8
+Norah Head,2009,6,97.4
+Norah Head,2009,7,74.8
+Norah Head,2009,8,4.2
+Norah Head,2009,9,13.0
+Norah Head,2009,10,77.60000000000001
+Norah Head,2009,11,7.4
+Norah Head,2009,12,84.6
+Norah Head,2010,1,49.199999999999996
+Norah Head,2010,2,64.6
+Norah Head,2010,3,107.6
+Norah Head,2010,4,50.4
+Norah Head,2010,5,229.0
+Norah Head,2010,6,144.20000000000002
+Norah Head,2010,7,131.2
+Norah Head,2010,8,43.6
+Norah Head,2010,9,15.8
+Norah Head,2010,10,79.39999999999999
+Norah Head,2010,11,168.0
+Norah Head,2010,12,65.4
+Norah Head,2011,1,41.0
+Norah Head,2011,2,40.800000000000004
+Norah Head,2011,3,130.4
+Norah Head,2011,5,189.0
+Norah Head,2011,6,162.8
+Norah Head,2011,7,256.6
+Norah Head,2011,8,62.4
+Norah Head,2011,9,138.8
+Norah Head,2011,10,56.6
+Norah Head,2011,11,130.20000000000002
+Norah Head,2011,12,95.0
+Norah Head,2012,1,164.6
+Norah Head,2012,2,170.0
+Norah Head,2012,3,112.2
+Norah Head,2012,4,151.6
+Norah Head,2012,5,66.2
+Norah Head,2012,6,154.20000000000002
+Norah Head,2012,7,75.0
+Norah Head,2012,8,60.8
+Norah Head,2012,9,31.0
+Norah Head,2012,10,11.4
+Norah Head,2012,11,83.0
+Norah Head,2013,1,178.20000000000002
+Norah Head,2013,3,109.2
+Norah Head,2013,4,99.6
+Norah Head,2013,5,71.6
+Norah Head,2013,6,313.8
+Norah Head,2013,7,39.599999999999994
+Norah Head,2013,8,22.0
+Norah Head,2013,9,24.6
+Norah Head,2013,10,32.4
+Norah Head,2013,11,305.2
+Norah Head,2013,12,29.200000000000003
+Norah Head,2014,1,9.4
+Norah Head,2014,2,144.39999999999998
+Norah Head,2014,3,133.4
+Norah Head,2014,4,134.2
+Norah Head,2014,5,82.0
+Norah Head,2014,6,186.20000000000002
+Norah Head,2014,7,25.400000000000002
+Norah Head,2014,8,218.2
+Norah Head,2014,9,52.0
+Norah Head,2014,10,75.8
+Norah Head,2014,11,24.8
+Norah Head,2014,12,70.2
+Norah Head,2015,1,167.8
+Norah Head,2015,2,96.0
+Norah Head,2015,3,98.6
+Norah Head,2015,4,321.4
+Norah Head,2015,5,118.0
+Norah Head,2015,6,88.2
+Norah Head,2015,7,41.6
+Norah Head,2015,8,19.2
+Norah Head,2015,9,92.8
+Norah Head,2015,10,71.2
+Norah Head,2015,11,110.4
+Norah Head,2015,12,115.0
+Norah Head,2016,1,232.2
+Norah Head,2016,2,17.4
+Norah Head,2016,3,154.4
+Norah Head,2016,4,54.4
+Norah Head,2016,5,12.8
+Norah Head,2016,6,195.2
+Norah Head,2016,7,82.60000000000001
+Norah Head,2016,8,75.4
+Norah Head,2016,9,69.2
+Norah Head,2016,10,60.199999999999996
+Norah Head,2016,11,35.199999999999996
+Norah Head,2016,12,69.4
+Norah Head,2017,1,49.800000000000004
+Norah Head,2017,2,123.8
+Norah Head,2017,3,283.6
+Norah Head,2017,4,93.6
+Norah Head,2017,5,41.8
+Norah Head,2017,6,159.6
+Norfolk Island,2009,1,64.8
+Norfolk Island,2009,2,200.20000000000002
+Norfolk Island,2009,3,60.6
+Norfolk Island,2009,4,85.8
+Norfolk Island,2009,5,36.4
+Norfolk Island,2009,6,112.4
+Norfolk Island,2009,7,134.4
+Norfolk Island,2009,8,35.0
+Norfolk Island,2009,9,117.4
+Norfolk Island,2009,10,30.599999999999998
+Norfolk Island,2009,11,8.2
+Norfolk Island,2009,12,14.8
+Norfolk Island,2010,1,13.0
+Norfolk Island,2010,2,29.8
+Norfolk Island,2010,3,23.6
+Norfolk Island,2010,4,94.2
+Norfolk Island,2010,5,109.0
+Norfolk Island,2010,6,96.0
+Norfolk Island,2010,7,45.4
+Norfolk Island,2010,8,170.2
+Norfolk Island,2010,9,92.7
+Norfolk Island,2010,10,41.8
+Norfolk Island,2010,11,48.0
+Norfolk Island,2010,12,19.6
+Norfolk Island,2011,1,58.8
+Norfolk Island,2011,2,23.0
+Norfolk Island,2011,3,266.79999999999995
+Norfolk Island,2011,5,152.0
+Norfolk Island,2011,6,195.8
+Norfolk Island,2011,7,134.4
+Norfolk Island,2011,8,244.0
+Norfolk Island,2011,9,144.6
+Norfolk Island,2011,10,29.200000000000003
+Norfolk Island,2011,11,20.6
+Norfolk Island,2011,12,328.2
+Norfolk Island,2012,1,40.8
+Norfolk Island,2012,2,150.6
+Norfolk Island,2012,3,63.0
+Norfolk Island,2012,4,105.0
+Norfolk Island,2012,5,151.6
+Norfolk Island,2012,6,190.4
+Norfolk Island,2012,7,143.8
+Norfolk Island,2012,8,99.0
+Norfolk Island,2012,9,67.0
+Norfolk Island,2012,10,95.4
+Norfolk Island,2012,11,94.4
+Norfolk Island,2013,1,14.0
+Norfolk Island,2013,3,45.800000000000004
+Norfolk Island,2013,4,121.8
+Norfolk Island,2013,5,106.0
+Norfolk Island,2013,6,148.4
+Norfolk Island,2013,7,145.4
+Norfolk Island,2013,8,118.0
+Norfolk Island,2013,9,66.6
+Norfolk Island,2013,10,34.6
+Norfolk Island,2013,11,107.4
+Norfolk Island,2013,12,55.6
+Norfolk Island,2014,1,47.2
+Norfolk Island,2014,2,166.2
+Norfolk Island,2014,3,25.2
+Norfolk Island,2014,4,41.199999999999996
+Norfolk Island,2014,5,63.400000000000006
+Norfolk Island,2014,6,109.0
+Norfolk Island,2014,7,103.8
+Norfolk Island,2014,8,142.0
+Norfolk Island,2014,9,39.6
+Norfolk Island,2014,10,60.8
+Norfolk Island,2014,11,41.400000000000006
+Norfolk Island,2014,12,261.6
+Norfolk Island,2015,1,199.6
+Norfolk Island,2015,2,43.8
+Norfolk Island,2015,3,71.60000000000001
+Norfolk Island,2015,4,63.4
+Norfolk Island,2015,5,42.400000000000006
+Norfolk Island,2015,6,39.4
+Norfolk Island,2015,7,105.2
+Norfolk Island,2015,8,75.6
+Norfolk Island,2015,9,95.2
+Norfolk Island,2015,10,35.2
+Norfolk Island,2015,11,55.4
+Norfolk Island,2015,12,111.4
+Norfolk Island,2016,1,137.0
+Norfolk Island,2016,2,265.8
+Norfolk Island,2016,3,258.0
+Norfolk Island,2016,4,82.2
+Norfolk Island,2016,5,120.3
+Norfolk Island,2016,6,117.60000000000001
+Norfolk Island,2016,7,67.0
+Norfolk Island,2016,8,109.0
+Norfolk Island,2016,9,73.2
+Norfolk Island,2016,10,40.0
+Norfolk Island,2016,11,137.0
+Norfolk Island,2016,12,11.4
+Norfolk Island,2017,1,28.6
+Norfolk Island,2017,2,38.4
+Norfolk Island,2017,3,66.8
+Norfolk Island,2017,4,56.8
+Norfolk Island,2017,5,54.4
+Norfolk Island,2017,6,121.39999999999999
+Nuriootpa,2009,1,1.0
+Nuriootpa,2009,2,2.2
+Nuriootpa,2009,3,17.4
+Nuriootpa,2009,4,60.4
+Nuriootpa,2009,5,26.599999999999998
+Nuriootpa,2009,6,63.0
+Nuriootpa,2009,7,89.6
+Nuriootpa,2009,8,47.800000000000004
+Nuriootpa,2009,9,69.0
+Nuriootpa,2009,10,37.4
+Nuriootpa,2009,11,39.199999999999996
+Nuriootpa,2009,12,21.0
+Nuriootpa,2010,1,9.2
+Nuriootpa,2010,2,3.2
+Nuriootpa,2010,3,20.2
+Nuriootpa,2010,4,60.199999999999996
+Nuriootpa,2010,5,44.2
+Nuriootpa,2010,6,40.0
+Nuriootpa,2010,7,39.199999999999996
+Nuriootpa,2010,8,75.2
+Nuriootpa,2010,9,95.8
+Nuriootpa,2010,10,33.2
+Nuriootpa,2010,11,28.400000000000002
+Nuriootpa,2010,12,134.5
+Nuriootpa,2011,1,4.0
+Nuriootpa,2011,2,92.10000000000001
+Nuriootpa,2011,3,115.2
+Nuriootpa,2011,5,71.39999999999999
+Nuriootpa,2011,6,43.4
+Nuriootpa,2011,7,50.0
+Nuriootpa,2011,8,71.6
+Nuriootpa,2011,9,40.2
+Nuriootpa,2011,10,46.2
+Nuriootpa,2011,11,45.9
+Nuriootpa,2011,12,47.2
+Nuriootpa,2012,1,15.200000000000001
+Nuriootpa,2012,2,16.0
+Nuriootpa,2012,3,46.6
+Nuriootpa,2012,4,13.8
+Nuriootpa,2012,5,28.5
+Nuriootpa,2012,6,54.8
+Nuriootpa,2012,7,39.6
+Nuriootpa,2012,8,41.0
+Nuriootpa,2012,9,38.4
+Nuriootpa,2012,10,16.2
+Nuriootpa,2012,11,5.6000000000000005
+Nuriootpa,2013,1,5.2
+Nuriootpa,2013,3,12.5
+Nuriootpa,2013,4,41.0
+Nuriootpa,2013,5,54.8
+Nuriootpa,2013,6,62.8
+Nuriootpa,2013,7,72.60000000000001
+Nuriootpa,2013,8,69.6
+Nuriootpa,2013,9,58.7
+Nuriootpa,2013,10,24.5
+Nuriootpa,2013,11,4.0
+Nuriootpa,2013,12,32.5
+Nuriootpa,2014,1,9.3
+Nuriootpa,2014,2,110.8
+Nuriootpa,2014,3,16.6
+Nuriootpa,2014,4,57.0
+Nuriootpa,2014,5,35.4
+Nuriootpa,2014,6,96.4
+Nuriootpa,2014,7,85.9
+Nuriootpa,2014,8,16.2
+Nuriootpa,2014,9,14.200000000000001
+Nuriootpa,2014,10,5.4
+Nuriootpa,2014,11,32.8
+Nuriootpa,2014,12,11.4
+Nuriootpa,2015,1,30.8
+Nuriootpa,2015,2,0.2
+Nuriootpa,2015,3,8.0
+Nuriootpa,2015,4,56.4
+Nuriootpa,2015,5,35.6
+Nuriootpa,2015,6,16.0
+Nuriootpa,2015,7,55.1
+Nuriootpa,2015,8,66.10000000000001
+Nuriootpa,2015,9,34.0
+Nuriootpa,2015,10,8.1
+Nuriootpa,2015,11,30.7
+Nuriootpa,2015,12,6.7
+Nuriootpa,2016,1,30.0
+Nuriootpa,2016,2,12.3
+Nuriootpa,2016,3,45.599999999999994
+Nuriootpa,2016,4,14.5
+Nuriootpa,2016,5,88.2
+Nuriootpa,2016,6,94.2
+Nuriootpa,2016,7,86.60000000000001
+Nuriootpa,2016,8,63.7
+Nuriootpa,2016,9,181.1
+Nuriootpa,2016,10,46.9
+Nuriootpa,2016,11,23.5
+Nuriootpa,2016,12,51.4
+Nuriootpa,2017,1,39.1
+Nuriootpa,2017,2,39.0
+Nuriootpa,2017,3,10.2
+Nuriootpa,2017,4,44.0
+Nuriootpa,2017,5,19.8
+Nuriootpa,2017,6,7.0
+Penrith,2008,12,70.0
+Penrith,2009,1,19.2
+Penrith,2009,2,136.2
+Penrith,2009,3,46.0
+Penrith,2009,4,89.8
+Penrith,2009,5,83.4
+Penrith,2009,6,28.8
+Penrith,2009,7,15.4
+Penrith,2009,8,8.0
+Penrith,2009,9,13.8
+Penrith,2009,10,52.0
+Penrith,2009,11,13.600000000000001
+Penrith,2009,12,31.400000000000002
+Penrith,2010,1,43.6
+Penrith,2010,2,274.8
+Penrith,2010,3,30.0
+Penrith,2010,4,15.399999999999999
+Penrith,2010,5,50.0
+Penrith,2010,6,51.400000000000006
+Penrith,2010,7,56.8
+Penrith,2010,8,23.0
+Penrith,2010,9,26.4
+Penrith,2010,10,61.0
+Penrith,2010,11,142.8
+Penrith,2010,12,39.8
+Penrith,2011,1,27.6
+Penrith,2011,2,21.8
+Penrith,2011,3,121.19999999999999
+Penrith,2011,5,40.8
+Penrith,2011,6,45.800000000000004
+Penrith,2011,7,27.199999999999996
+Penrith,2011,8,28.4
+Penrith,2011,9,68.4
+Penrith,2011,10,46.4
+Penrith,2011,11,153.8
+Penrith,2011,12,88.2
+Penrith,2012,1,138.0
+Penrith,2012,2,266.2
+Penrith,2012,3,149.2
+Penrith,2012,4,93.60000000000001
+Penrith,2012,5,15.4
+Penrith,2012,6,65.4
+Penrith,2012,7,19.2
+Penrith,2012,8,5.0
+Penrith,2012,9,24.400000000000002
+Penrith,2012,10,34.0
+Penrith,2012,11,67.0
+Penrith,2013,1,149.2
+Penrith,2013,3,67.39999999999999
+Penrith,2013,4,60.199999999999996
+Penrith,2013,5,27.2
+Penrith,2013,6,100.8
+Penrith,2013,7,4.4
+Penrith,2013,8,0.4
+Penrith,2013,9,19.0
+Penrith,2013,10,6.6000000000000005
+Penrith,2013,11,141.4
+Penrith,2013,12,36.6
+Penrith,2014,1,27.400000000000002
+Penrith,2014,2,68.2
+Penrith,2014,3,100.6
+Penrith,2014,4,54.4
+Penrith,2014,5,4.0
+Penrith,2014,6,35.4
+Penrith,2014,7,12.0
+Penrith,2014,8,103.0
+Penrith,2014,9,18.8
+Penrith,2014,10,65.6
+Penrith,2014,11,40.0
+Penrith,2014,12,164.20000000000002
+Penrith,2015,1,140.4
+Penrith,2015,2,47.199999999999996
+Penrith,2015,3,46.4
+Penrith,2015,4,258.8
+Penrith,2015,5,47.6
+Penrith,2015,6,67.4
+Penrith,2015,7,33.4
+Penrith,2015,8,40.0
+Penrith,2015,9,15.8
+Penrith,2015,10,31.599999999999998
+Penrith,2015,11,141.2
+Penrith,2015,12,109.2
+Penrith,2016,1,307.8
+Penrith,2016,2,1.8
+Penrith,2016,3,16.8
+Penrith,2016,4,12.2
+Penrith,2016,5,7.799999999999999
+Penrith,2016,6,209.39999999999998
+Penrith,2016,7,48.2
+Penrith,2016,8,48.8
+Penrith,2016,9,50.0
+Penrith,2016,10,12.4
+Penrith,2016,11,16.6
+Penrith,2016,12,65.2
+Penrith,2017,1,28.2
+Penrith,2017,2,69.8
+Penrith,2017,3,230.2
+Penrith,2017,4,29.400000000000002
+Penrith,2017,5,10.2
+Penrith,2017,6,27.4
+Perth,2008,7,179.4
+Perth,2008,8,27.8
+Perth,2008,9,75.8
+Perth,2008,10,38.4
+Perth,2008,11,57.8
+Perth,2008,12,11.6
+Perth,2009,1,0.2
+Perth,2009,2,8.2
+Perth,2009,3,6.8
+Perth,2009,4,5.0
+Perth,2009,5,46.0
+Perth,2009,6,156.2
+Perth,2009,7,149.6
+Perth,2009,8,111.0
+Perth,2009,9,80.2
+Perth,2009,10,6.8
+Perth,2009,11,38.2
+Perth,2009,12,0.0
+Perth,2010,1,0.0
+Perth,2010,2,0.2
+Perth,2010,3,40.400000000000006
+Perth,2010,4,25.0
+Perth,2010,5,88.6
+Perth,2010,6,51.4
+Perth,2010,7,142.0
+Perth,2010,8,63.0
+Perth,2010,9,43.6
+Perth,2010,10,20.6
+Perth,2010,11,11.6
+Perth,2010,12,17.4
+Perth,2011,1,30.2
+Perth,2011,2,0.4
+Perth,2011,3,0.0
+Perth,2011,5,85.0
+Perth,2011,6,171.4
+Perth,2011,7,161.0
+Perth,2011,8,115.2
+Perth,2011,9,109.2
+Perth,2011,10,64.2
+Perth,2011,11,29.0
+Perth,2011,12,75.8
+Perth,2012,1,18.8
+Perth,2012,2,23.599999999999998
+Perth,2012,3,0.2
+Perth,2012,4,69.2
+Perth,2012,5,49.0
+Perth,2012,6,140.8
+Perth,2012,7,34.6
+Perth,2012,8,87.2
+Perth,2012,9,90.8
+Perth,2012,10,15.600000000000001
+Perth,2012,11,58.2
+Perth,2013,1,7.2
+Perth,2013,3,69.6
+Perth,2013,4,21.0
+Perth,2013,5,138.2
+Perth,2013,6,44.0
+Perth,2013,7,140.0
+Perth,2013,8,167.4
+Perth,2013,9,144.2
+Perth,2013,10,38.0
+Perth,2013,11,10.2
+Perth,2013,12,1.8
+Perth,2014,1,0.2
+Perth,2014,2,0.0
+Perth,2014,3,7.4
+Perth,2014,4,24.599999999999998
+Perth,2014,5,152.6
+Perth,2014,6,93.60000000000001
+Perth,2014,7,151.20000000000002
+Perth,2014,8,107.0
+Perth,2014,9,77.0
+Perth,2014,10,37.0
+Perth,2014,11,23.8
+Perth,2014,12,0.0
+Perth,2015,1,18.6
+Perth,2015,2,23.400000000000002
+Perth,2015,3,15.599999999999998
+Perth,2015,4,54.0
+Perth,2015,5,83.8
+Perth,2015,6,100.4
+Perth,2015,7,102.39999999999999
+Perth,2015,8,113.0
+Perth,2015,9,52.0
+Perth,2015,10,20.6
+Perth,2015,11,20.4
+Perth,2015,12,13.6
+Perth,2016,1,15.2
+Perth,2016,2,0.6000000000000001
+Perth,2016,3,16.799999999999997
+Perth,2016,4,68.2
+Perth,2016,5,112.0
+Perth,2016,6,109.4
+Perth,2016,7,139.6
+Perth,2016,8,123.2
+Perth,2016,9,68.8
+Perth,2016,10,37.4
+Perth,2016,11,14.4
+Perth,2016,12,10.2
+Perth,2017,1,45.400000000000006
+Perth,2017,2,137.20000000000002
+Perth,2017,3,23.6
+Perth,2017,4,0.0
+Perth,2017,5,70.8
+Perth,2017,6,88.0
+Perth Airport,2009,1,12.6
+Perth Airport,2009,2,5.3999999999999995
+Perth Airport,2009,3,6.0
+Perth Airport,2009,4,6.8
+Perth Airport,2009,5,49.6
+Perth Airport,2009,6,131.4
+Perth Airport,2009,7,145.4
+Perth Airport,2009,8,129.0
+Perth Airport,2009,9,93.2
+Perth Airport,2009,10,4.0
+Perth Airport,2009,11,32.4
+Perth Airport,2009,12,0.0
+Perth Airport,2010,1,0.0
+Perth Airport,2010,2,0.0
+Perth Airport,2010,3,43.2
+Perth Airport,2010,4,23.2
+Perth Airport,2010,5,88.60000000000001
+Perth Airport,2010,6,47.2
+Perth Airport,2010,7,86.39999999999999
+Perth Airport,2010,8,60.0
+Perth Airport,2010,9,27.799999999999997
+Perth Airport,2010,10,25.2
+Perth Airport,2010,11,7.6
+Perth Airport,2010,12,16.0
+Perth Airport,2011,1,43.2
+Perth Airport,2011,2,0.4
+Perth Airport,2011,3,0.0
+Perth Airport,2011,5,58.6
+Perth Airport,2011,6,143.2
+Perth Airport,2011,7,164.6
+Perth Airport,2011,8,127.8
+Perth Airport,2011,9,102.4
+Perth Airport,2011,10,63.39999999999999
+Perth Airport,2011,11,38.6
+Perth Airport,2011,12,67.4
+Perth Airport,2012,1,27.4
+Perth Airport,2012,2,19.0
+Perth Airport,2012,3,0.0
+Perth Airport,2012,4,53.2
+Perth Airport,2012,5,39.8
+Perth Airport,2012,6,134.4
+Perth Airport,2012,7,30.599999999999998
+Perth Airport,2012,8,111.39999999999999
+Perth Airport,2012,9,103.8
+Perth Airport,2012,10,13.799999999999999
+Perth Airport,2012,11,85.0
+Perth Airport,2013,1,8.2
+Perth Airport,2013,3,60.199999999999996
+Perth Airport,2013,4,7.8
+Perth Airport,2013,5,112.2
+Perth Airport,2013,6,23.0
+Perth Airport,2013,7,119.19999999999999
+Perth Airport,2013,8,160.6
+Perth Airport,2013,9,172.4
+Perth Airport,2013,10,32.4
+Perth Airport,2013,11,6.2
+Perth Airport,2013,12,0.8
+Perth Airport,2014,1,0.4
+Perth Airport,2014,2,0.0
+Perth Airport,2014,3,4.4
+Perth Airport,2014,4,18.6
+Perth Airport,2014,5,125.2
+Perth Airport,2014,6,92.2
+Perth Airport,2014,7,139.20000000000002
+Perth Airport,2014,8,109.60000000000001
+Perth Airport,2014,9,70.2
+Perth Airport,2014,10,34.2
+Perth Airport,2014,11,26.599999999999998
+Perth Airport,2014,12,0.2
+Perth Airport,2015,1,0.4
+Perth Airport,2015,2,28.4
+Perth Airport,2015,3,22.0
+Perth Airport,2015,4,56.0
+Perth Airport,2015,5,68.8
+Perth Airport,2015,6,100.19999999999999
+Perth Airport,2015,7,98.8
+Perth Airport,2015,8,102.80000000000001
+Perth Airport,2015,9,46.8
+Perth Airport,2015,10,19.2
+Perth Airport,2015,11,17.400000000000002
+Perth Airport,2015,12,17.400000000000002
+Perth Airport,2016,1,23.4
+Perth Airport,2016,2,0.8
+Perth Airport,2016,3,21.4
+Perth Airport,2016,4,61.6
+Perth Airport,2016,5,106.0
+Perth Airport,2016,6,86.4
+Perth Airport,2016,7,129.4
+Perth Airport,2016,8,131.6
+Perth Airport,2016,9,61.8
+Perth Airport,2016,10,37.8
+Perth Airport,2016,11,5.6
+Perth Airport,2016,12,8.6
+Perth Airport,2017,1,39.8
+Perth Airport,2017,2,89.8
+Perth Airport,2017,3,19.8
+Perth Airport,2017,4,0.0
+Perth Airport,2017,5,53.6
+Perth Airport,2017,6,52.4
+Portland,2009,1,11.0
+Portland,2009,2,2.6
+Portland,2009,3,55.6
+Portland,2009,4,85.2
+Portland,2009,5,51.8
+Portland,2009,6,101.6
+Portland,2009,7,153.2
+Portland,2009,8,129.8
+Portland,2009,9,100.8
+Portland,2009,10,48.0
+Portland,2009,11,70.2
+Portland,2009,12,42.800000000000004
+Portland,2010,1,16.4
+Portland,2010,2,44.8
+Portland,2010,3,32.2
+Portland,2010,4,71.6
+Portland,2010,5,79.6
+Portland,2010,6,121.0
+Portland,2010,7,107.39999999999999
+Portland,2010,8,174.0
+Portland,2010,9,116.8
+Portland,2010,10,57.6
+Portland,2010,11,45.2
+Portland,2010,12,125.0
+Portland,2011,1,149.6
+Portland,2011,2,57.2
+Portland,2011,3,47.0
+Portland,2011,5,91.6
+Portland,2011,6,104.2
+Portland,2011,7,114.0
+Portland,2011,8,105.0
+Portland,2011,9,63.8
+Portland,2011,10,77.2
+Portland,2011,11,48.2
+Portland,2011,12,21.8
+Portland,2012,1,37.199999999999996
+Portland,2012,2,18.4
+Portland,2012,3,71.6
+Portland,2012,4,40.0
+Portland,2012,5,105.2
+Portland,2012,6,172.4
+Portland,2012,7,107.4
+Portland,2012,8,104.4
+Portland,2012,9,73.2
+Portland,2012,10,37.2
+Portland,2012,11,30.6
+Portland,2013,1,16.0
+Portland,2013,3,51.8
+Portland,2013,4,46.4
+Portland,2013,5,108.8
+Portland,2013,6,113.4
+Portland,2013,7,219.0
+Portland,2013,8,255.0
+Portland,2013,9,80.0
+Portland,2013,10,123.4
+Portland,2013,11,77.0
+Portland,2013,12,42.2
+Portland,2014,1,24.2
+Portland,2014,2,17.2
+Portland,2014,3,61.0
+Portland,2014,4,93.6
+Portland,2014,5,92.6
+Portland,2014,6,199.20000000000002
+Portland,2014,7,91.0
+Portland,2014,8,49.0
+Portland,2014,9,37.2
+Portland,2014,10,31.799999999999997
+Portland,2014,11,27.8
+Portland,2014,12,41.199999999999996
+Portland,2015,1,55.8
+Portland,2015,2,5.0
+Portland,2015,3,66.4
+Portland,2015,4,61.2
+Portland,2015,5,118.8
+Portland,2015,6,69.0
+Portland,2015,7,107.2
+Portland,2015,8,68.0
+Portland,2015,9,59.4
+Portland,2015,10,7.0
+Portland,2015,11,29.2
+Portland,2015,12,27.8
+Portland,2016,1,27.4
+Portland,2016,2,81.4
+Portland,2016,3,29.799999999999997
+Portland,2016,4,41.6
+Portland,2016,5,144.4
+Portland,2016,6,120.0
+Portland,2016,7,168.2
+Portland,2016,8,109.2
+Portland,2016,9,161.2
+Portland,2016,10,114.8
+Portland,2016,11,67.4
+Portland,2016,12,51.6
+Portland,2017,1,49.599999999999994
+Portland,2017,2,39.0
+Portland,2017,3,60.6
+Portland,2017,4,103.6
+Portland,2017,5,80.0
+Portland,2017,6,36.2
+RAAF Base Pearce,2009,1,0.0
+RAAF Base Pearce,2009,2,1.0
+RAAF Base Pearce,2009,3,2.2
+RAAF Base Pearce,2009,4,17.2
+RAAF Base Pearce,2009,5,41.0
+RAAF Base Pearce,2009,6,120.6
+RAAF Base Pearce,2009,7,149.5
+RAAF Base Pearce,2009,8,93.8
+RAAF Base Pearce,2009,9,85.2
+RAAF Base Pearce,2009,10,8.0
+RAAF Base Pearce,2009,11,37.4
+RAAF Base Pearce,2009,12,0.0
+RAAF Base Pearce,2010,1,0.0
+RAAF Base Pearce,2010,2,0.2
+RAAF Base Pearce,2010,3,15.0
+RAAF Base Pearce,2010,4,13.0
+RAAF Base Pearce,2010,5,57.6
+RAAF Base Pearce,2010,6,28.8
+RAAF Base Pearce,2010,7,109.2
+RAAF Base Pearce,2010,8,52.8
+RAAF Base Pearce,2010,9,34.2
+RAAF Base Pearce,2010,10,9.4
+RAAF Base Pearce,2010,11,10.4
+RAAF Base Pearce,2010,12,15.6
+RAAF Base Pearce,2011,1,11.0
+RAAF Base Pearce,2011,2,1.6
+RAAF Base Pearce,2011,3,0.2
+RAAF Base Pearce,2011,5,38.6
+RAAF Base Pearce,2011,6,111.0
+RAAF Base Pearce,2011,7,120.4
+RAAF Base Pearce,2011,8,103.0
+RAAF Base Pearce,2011,9,67.4
+RAAF Base Pearce,2011,10,57.2
+RAAF Base Pearce,2011,11,28.8
+RAAF Base Pearce,2011,12,64.4
+RAAF Base Pearce,2012,1,2.4
+RAAF Base Pearce,2012,2,24.6
+RAAF Base Pearce,2012,3,0.8
+RAAF Base Pearce,2012,4,48.0
+RAAF Base Pearce,2012,5,33.6
+RAAF Base Pearce,2012,6,82.6
+RAAF Base Pearce,2012,7,23.2
+RAAF Base Pearce,2012,8,81.8
+RAAF Base Pearce,2012,9,71.6
+RAAF Base Pearce,2012,10,8.8
+RAAF Base Pearce,2012,11,47.0
+RAAF Base Pearce,2013,1,7.0
+RAAF Base Pearce,2013,3,60.8
+RAAF Base Pearce,2013,4,15.8
+RAAF Base Pearce,2013,5,90.3
+RAAF Base Pearce,2013,6,10.5
+RAAF Base Pearce,2013,7,113.5
+RAAF Base Pearce,2013,8,139.6
+RAAF Base Pearce,2013,9,155.3
+RAAF Base Pearce,2013,10,26.2
+RAAF Base Pearce,2013,11,7.699999999999999
+RAAF Base Pearce,2013,12,0.6000000000000001
+RAAF Base Pearce,2014,1,0.2
+RAAF Base Pearce,2014,2,0.0
+RAAF Base Pearce,2014,3,6.2
+RAAF Base Pearce,2014,4,23.2
+RAAF Base Pearce,2014,5,123.89999999999999
+RAAF Base Pearce,2014,6,87.4
+RAAF Base Pearce,2014,7,104.6
+RAAF Base Pearce,2014,8,86.7
+RAAF Base Pearce,2014,9,55.6
+RAAF Base Pearce,2014,10,25.599999999999998
+RAAF Base Pearce,2014,11,20.400000000000002
+RAAF Base Pearce,2014,12,0.0
+RAAF Base Pearce,2015,1,1.2
+RAAF Base Pearce,2015,2,32.6
+RAAF Base Pearce,2015,3,26.8
+RAAF Base Pearce,2015,4,54.599999999999994
+RAAF Base Pearce,2015,5,58.4
+RAAF Base Pearce,2015,6,64.6
+RAAF Base Pearce,2015,7,97.8
+RAAF Base Pearce,2015,8,93.4
+RAAF Base Pearce,2015,9,32.8
+RAAF Base Pearce,2015,10,13.4
+RAAF Base Pearce,2015,11,9.6
+RAAF Base Pearce,2015,12,15.399999999999999
+RAAF Base Pearce,2016,1,20.200000000000003
+RAAF Base Pearce,2016,2,1.0
+RAAF Base Pearce,2016,3,101.8
+RAAF Base Pearce,2016,4,68.2
+RAAF Base Pearce,2016,5,90.2
+RAAF Base Pearce,2016,6,94.2
+RAAF Base Pearce,2016,7,119.2
+RAAF Base Pearce,2016,8,134.2
+RAAF Base Pearce,2016,9,50.199999999999996
+RAAF Base Pearce,2016,10,44.6
+RAAF Base Pearce,2016,11,7.4
+RAAF Base Pearce,2016,12,13.8
+RAAF Base Pearce,2017,1,54.6
+RAAF Base Pearce,2017,2,98.60000000000001
+RAAF Base Pearce,2017,3,39.8
+RAAF Base Pearce,2017,4,0.0
+RAAF Base Pearce,2017,5,41.2
+RAAF Base Pearce,2017,6,39.0
+Richmond,2009,1,18.2
+Richmond,2009,2,156.0
+Richmond,2009,3,70.2
+Richmond,2009,4,102.0
+Richmond,2009,5,81.6
+Richmond,2009,6,29.6
+Richmond,2009,7,16.6
+Richmond,2009,8,6.8
+Richmond,2009,9,4.2
+Richmond,2009,10,23.8
+Richmond,2009,11,13.799999999999999
+Richmond,2009,12,55.400000000000006
+Richmond,2010,1,22.4
+Richmond,2010,2,212.8
+Richmond,2010,3,60.4
+Richmond,2010,4,16.2
+Richmond,2010,5,37.4
+Richmond,2010,6,51.2
+Richmond,2010,7,41.2
+Richmond,2010,8,16.4
+Richmond,2010,9,25.0
+Richmond,2010,10,61.0
+Richmond,2010,11,114.8
+Richmond,2010,12,54.2
+Richmond,2011,1,53.199999999999996
+Richmond,2011,2,29.6
+Richmond,2011,3,113.8
+Richmond,2011,5,50.2
+Richmond,2011,6,52.0
+Richmond,2011,7,28.8
+Richmond,2011,8,28.800000000000004
+Richmond,2011,9,87.4
+Richmond,2011,10,36.800000000000004
+Richmond,2011,11,133.4
+Richmond,2011,12,67.2
+Richmond,2012,1,152.4
+Richmond,2012,2,159.6
+Richmond,2012,3,136.20000000000002
+Richmond,2012,4,131.2
+Richmond,2012,5,13.6
+Richmond,2012,6,72.39999999999999
+Richmond,2012,7,15.8
+Richmond,2012,8,4.8
+Richmond,2012,9,32.6
+Richmond,2012,10,20.2
+Richmond,2012,11,37.2
+Richmond,2013,1,155.0
+Richmond,2013,3,81.2
+Richmond,2013,4,49.0
+Richmond,2013,5,29.6
+Richmond,2013,6,66.6
+Richmond,2013,7,1.8
+Richmond,2013,8,7.4
+Richmond,2013,9,24.0
+Richmond,2013,10,7.800000000000001
+Richmond,2013,11,68.4
+Richmond,2013,12,28.999999999999996
+Richmond,2014,1,21.6
+Richmond,2014,2,69.0
+Richmond,2014,3,105.8
+Richmond,2014,4,41.4
+Richmond,2014,5,3.4
+Richmond,2014,6,19.0
+Richmond,2014,7,4.0
+Richmond,2014,8,107.8
+Richmond,2014,9,19.4
+Richmond,2014,10,46.2
+Richmond,2014,11,16.6
+Richmond,2014,12,229.4
+Richmond,2015,1,139.0
+Richmond,2015,2,99.2
+Richmond,2015,3,25.4
+Richmond,2015,4,353.0
+Richmond,2015,5,63.2
+Richmond,2015,6,63.2
+Richmond,2015,7,24.2
+Richmond,2015,8,19.200000000000003
+Richmond,2015,9,17.6
+Richmond,2015,10,19.0
+Richmond,2015,11,116.0
+Richmond,2015,12,78.8
+Richmond,2016,1,266.4
+Richmond,2016,2,14.200000000000001
+Richmond,2016,3,12.8
+Richmond,2016,4,8.6
+Richmond,2016,5,4.2
+Richmond,2016,6,189.2
+Richmond,2016,7,57.2
+Richmond,2016,8,61.6
+Richmond,2016,9,55.4
+Richmond,2016,10,13.6
+Richmond,2016,11,40.6
+Richmond,2016,12,78.39999999999999
+Richmond,2017,1,21.8
+Richmond,2017,2,72.0
+Richmond,2017,3,286.8
+Richmond,2017,4,24.200000000000003
+Richmond,2017,5,15.4
+Richmond,2017,6,118.6
+Sale,2009,1,3.2
+Sale,2009,2,26.8
+Sale,2009,3,19.0
+Sale,2009,4,39.0
+Sale,2009,5,23.8
+Sale,2009,6,15.799999999999999
+Sale,2009,7,25.6
+Sale,2009,8,40.2
+Sale,2009,9,63.800000000000004
+Sale,2009,10,43.8
+Sale,2009,11,39.400000000000006
+Sale,2009,12,37.0
+Sale,2010,1,32.2
+Sale,2010,2,70.0
+Sale,2010,3,47.2
+Sale,2010,4,24.799999999999997
+Sale,2010,5,42.0
+Sale,2010,6,32.2
+Sale,2010,7,10.399999999999999
+Sale,2010,8,38.2
+Sale,2010,9,15.6
+Sale,2010,10,60.4
+Sale,2010,11,63.99999999999999
+Sale,2010,12,83.0
+Sale,2011,1,39.4
+Sale,2011,2,96.80000000000001
+Sale,2011,3,68.0
+Sale,2011,5,33.4
+Sale,2011,6,23.0
+Sale,2011,7,70.2
+Sale,2011,8,47.8
+Sale,2011,9,52.2
+Sale,2011,10,60.4
+Sale,2011,11,134.8
+Sale,2011,12,51.199999999999996
+Sale,2012,1,45.4
+Sale,2012,2,83.0
+Sale,2012,3,73.8
+Sale,2012,4,21.8
+Sale,2012,5,81.4
+Sale,2012,6,90.60000000000001
+Sale,2012,7,11.8
+Sale,2012,8,42.599999999999994
+Sale,2012,9,41.4
+Sale,2012,10,33.2
+Sale,2012,11,57.6
+Sale,2013,1,4.4
+Sale,2013,3,38.6
+Sale,2013,4,52.5
+Sale,2013,5,12.6
+Sale,2013,6,169.4
+Sale,2013,7,23.2
+Sale,2013,8,38.0
+Sale,2013,9,60.0
+Sale,2013,10,49.6
+Sale,2013,11,37.0
+Sale,2013,12,32.0
+Sale,2014,1,22.0
+Sale,2014,2,14.2
+Sale,2014,3,44.4
+Sale,2014,4,62.0
+Sale,2014,5,27.599999999999998
+Sale,2014,6,52.2
+Sale,2014,7,24.2
+Sale,2014,8,41.6
+Sale,2014,9,49.8
+Sale,2014,10,57.4
+Sale,2014,11,65.60000000000001
+Sale,2014,12,124.39999999999999
+Sale,2015,1,38.2
+Sale,2015,2,57.8
+Sale,2015,3,24.4
+Sale,2015,4,100.8
+Sale,2015,5,24.2
+Sale,2015,6,30.8
+Sale,2015,7,26.2
+Sale,2015,8,90.0
+Sale,2015,9,13.6
+Sale,2015,10,21.0
+Sale,2015,11,44.2
+Sale,2015,12,46.6
+Sale,2016,1,104.8
+Sale,2016,2,6.2
+Sale,2016,3,60.6
+Sale,2016,4,26.0
+Sale,2016,5,37.8
+Sale,2016,6,73.0
+Sale,2016,7,102.4
+Sale,2016,8,26.2
+Sale,2016,9,36.0
+Sale,2016,10,63.4
+Sale,2016,11,53.4
+Sale,2016,12,23.6
+Sale,2017,1,11.6
+Sale,2017,2,29.4
+Sale,2017,3,22.6
+Sale,2017,4,51.0
+Sale,2017,5,15.0
+Sale,2017,6,9.8
+Salmon Gums,2009,1,113.2
+Salmon Gums,2009,2,1.8
+Salmon Gums,2009,3,0.4
+Salmon Gums,2009,4,0.4
+Salmon Gums,2009,5,1.6
+Salmon Gums,2009,6,50.800000000000004
+Salmon Gums,2009,7,33.6
+Salmon Gums,2009,8,24.8
+Salmon Gums,2009,9,51.4
+Salmon Gums,2009,10,2.6
+Salmon Gums,2009,11,34.2
+Salmon Gums,2009,12,5.4
+Salmon Gums,2010,1,12.799999999999999
+Salmon Gums,2010,2,31.0
+Salmon Gums,2010,3,22.8
+Salmon Gums,2010,4,1.0
+Salmon Gums,2010,5,45.2
+Salmon Gums,2010,6,0.0
+Salmon Gums,2010,7,16.8
+Salmon Gums,2010,8,26.0
+Salmon Gums,2010,9,17.4
+Salmon Gums,2010,10,14.0
+Salmon Gums,2010,11,7.2
+Salmon Gums,2010,12,11.4
+Salmon Gums,2011,1,38.0
+Salmon Gums,2011,2,8.8
+Salmon Gums,2011,3,22.0
+Salmon Gums,2011,5,30.8
+Salmon Gums,2011,6,14.4
+Salmon Gums,2011,7,38.0
+Salmon Gums,2011,8,26.2
+Salmon Gums,2011,9,22.8
+Salmon Gums,2011,10,103.6
+Salmon Gums,2011,11,22.4
+Salmon Gums,2011,12,34.2
+Salmon Gums,2012,1,49.0
+Salmon Gums,2012,2,9.200000000000001
+Salmon Gums,2012,3,61.4
+Salmon Gums,2012,4,3.2
+Salmon Gums,2012,5,13.4
+Salmon Gums,2012,6,38.2
+Salmon Gums,2012,7,30.8
+Salmon Gums,2012,8,14.0
+Salmon Gums,2012,9,25.6
+Salmon Gums,2012,10,6.6
+Salmon Gums,2012,11,64.2
+Salmon Gums,2013,1,10.8
+Salmon Gums,2013,3,144.6
+Salmon Gums,2013,4,9.799999999999999
+Salmon Gums,2013,5,49.8
+Salmon Gums,2013,6,18.4
+Salmon Gums,2013,7,44.4
+Salmon Gums,2013,8,25.599999999999998
+Salmon Gums,2013,9,56.2
+Salmon Gums,2013,10,40.6
+Salmon Gums,2013,11,29.6
+Salmon Gums,2013,12,17.6
+Salmon Gums,2014,1,21.6
+Salmon Gums,2014,2,26.599999999999998
+Salmon Gums,2014,3,7.0
+Salmon Gums,2014,4,10.4
+Salmon Gums,2014,5,41.4
+Salmon Gums,2014,6,17.8
+Salmon Gums,2014,7,30.0
+Salmon Gums,2014,8,31.2
+Salmon Gums,2014,9,42.400000000000006
+Salmon Gums,2014,10,66.6
+Salmon Gums,2014,11,54.400000000000006
+Salmon Gums,2014,12,19.8
+Salmon Gums,2015,1,3.0
+Salmon Gums,2015,2,5.4
+Salmon Gums,2015,3,37.0
+Salmon Gums,2015,4,42.6
+Salmon Gums,2015,5,9.4
+Salmon Gums,2015,6,67.6
+Salmon Gums,2015,7,34.4
+Salmon Gums,2015,8,91.2
+Salmon Gums,2015,9,18.8
+Salmon Gums,2015,10,20.8
+Salmon Gums,2015,11,25.8
+Salmon Gums,2015,12,17.2
+Salmon Gums,2016,1,38.6
+Salmon Gums,2016,2,14.4
+Salmon Gums,2016,3,51.8
+Salmon Gums,2016,4,32.8
+Salmon Gums,2016,5,35.6
+Salmon Gums,2016,6,57.2
+Salmon Gums,2016,7,32.6
+Salmon Gums,2016,8,53.6
+Salmon Gums,2016,9,27.0
+Salmon Gums,2016,10,11.6
+Salmon Gums,2016,11,3.4
+Salmon Gums,2016,12,17.2
+Salmon Gums,2017,1,43.8
+Salmon Gums,2017,2,142.2
+Salmon Gums,2017,3,31.8
+Salmon Gums,2017,4,9.6
+Salmon Gums,2017,5,51.0
+Salmon Gums,2017,6,10.0
+Sydney,2008,2,258.4
+Sydney,2008,3,63.4
+Sydney,2008,4,146.6
+Sydney,2008,5,3.0
+Sydney,2008,6,127.2
+Sydney,2008,7,89.6
+Sydney,2008,8,44.2
+Sydney,2008,9,99.2
+Sydney,2008,10,66.6
+Sydney,2008,11,73.2
+Sydney,2008,12,54.2
+Sydney,2009,1,24.799999999999997
+Sydney,2009,2,127.60000000000001
+Sydney,2009,3,60.599999999999994
+Sydney,2009,4,152.6
+Sydney,2009,5,125.8
+Sydney,2009,6,129.8
+Sydney,2009,7,53.0
+Sydney,2009,8,6.0
+Sydney,2009,9,16.0
+Sydney,2009,10,180.0
+Sydney,2009,11,13.2
+Sydney,2009,12,66.8
+Sydney,2010,1,36.0
+Sydney,2010,2,239.4
+Sydney,2010,3,51.4
+Sydney,2010,4,30.0
+Sydney,2010,5,168.4
+Sydney,2010,6,147.2
+Sydney,2010,7,114.39999999999999
+Sydney,2010,8,26.999999999999996
+Sydney,2010,9,42.2
+Sydney,2010,10,85.0
+Sydney,2010,11,129.6
+Sydney,2010,12,83.2
+Sydney,2011,1,53.8
+Sydney,2011,2,18.0
+Sydney,2011,3,191.60000000000002
+Sydney,2011,5,135.6
+Sydney,2011,6,93.8
+Sydney,2011,7,282.2
+Sydney,2011,8,52.2
+Sydney,2011,9,71.60000000000001
+Sydney,2011,10,37.4
+Sydney,2011,11,148.4
+Sydney,2011,12,78.4
+Sydney,2012,1,138.8
+Sydney,2012,2,111.0
+Sydney,2012,3,269.8
+Sydney,2012,4,148.2
+Sydney,2012,5,37.199999999999996
+Sydney,2012,6,244.2
+Sydney,2012,7,56.2
+Sydney,2012,8,19.0
+Sydney,2012,9,23.799999999999997
+Sydney,2012,10,29.400000000000002
+Sydney,2012,11,52.0
+Sydney,2013,1,137.8
+Sydney,2013,3,65.6
+Sydney,2013,4,199.8
+Sydney,2013,5,110.2
+Sydney,2013,6,316.4
+Sydney,2013,7,32.6
+Sydney,2013,8,14.8
+Sydney,2013,9,35.800000000000004
+Sydney,2013,10,42.2
+Sydney,2013,11,192.8
+Sydney,2013,12,31.000000000000004
+Sydney,2014,1,17.400000000000002
+Sydney,2014,2,58.2
+Sydney,2014,3,102.60000000000001
+Sydney,2014,4,121.0
+Sydney,2014,5,27.4
+Sydney,2014,6,68.0
+Sydney,2014,7,16.4
+Sydney,2014,8,215.2
+Sydney,2014,9,50.4
+Sydney,2014,10,86.6
+Sydney,2014,11,16.0
+Sydney,2014,12,118.0
+Sydney,2015,1,165.8
+Sydney,2015,2,59.0
+Sydney,2015,3,65.2
+Sydney,2015,4,366.8
+Sydney,2015,5,109.8
+Sydney,2015,6,110.6
+Sydney,2015,7,47.0
+Sydney,2015,8,71.8
+Sydney,2015,9,80.0
+Sydney,2015,10,43.0
+Sydney,2015,11,122.6
+Sydney,2015,12,96.60000000000001
+Sydney,2016,1,249.8
+Sydney,2016,2,25.8
+Sydney,2016,3,193.2
+Sydney,2016,4,155.0
+Sydney,2016,5,7.2
+Sydney,2016,6,305.0
+Sydney,2016,7,104.6
+Sydney,2016,8,151.4
+Sydney,2016,9,70.0
+Sydney,2016,10,31.400000000000002
+Sydney,2016,11,27.2
+Sydney,2016,12,65.0
+Sydney,2017,1,48.400000000000006
+Sydney,2017,2,205.2
+Sydney,2017,3,326.6
+Sydney,2017,4,82.6
+Sydney,2017,5,30.0
+Sydney,2017,6,173.0
+Sydney Airport,2009,1,19.0
+Sydney Airport,2009,2,104.8
+Sydney Airport,2009,3,52.00000000000001
+Sydney Airport,2009,4,183.2
+Sydney Airport,2009,5,133.0
+Sydney Airport,2009,6,79.2
+Sydney Airport,2009,7,57.4
+Sydney Airport,2009,8,6.3999999999999995
+Sydney Airport,2009,9,22.6
+Sydney Airport,2009,10,134.2
+Sydney Airport,2009,11,25.4
+Sydney Airport,2009,12,59.8
+Sydney Airport,2010,1,26.4
+Sydney Airport,2010,2,156.8
+Sydney Airport,2010,3,42.4
+Sydney Airport,2010,4,37.199999999999996
+Sydney Airport,2010,5,183.2
+Sydney Airport,2010,6,104.2
+Sydney Airport,2010,7,79.8
+Sydney Airport,2010,8,25.799999999999997
+Sydney Airport,2010,9,35.4
+Sydney Airport,2010,10,86.8
+Sydney Airport,2010,11,156.6
+Sydney Airport,2010,12,105.6
+Sydney Airport,2011,1,38.2
+Sydney Airport,2011,2,14.4
+Sydney Airport,2011,3,183.4
+Sydney Airport,2011,5,97.2
+Sydney Airport,2011,6,48.0
+Sydney Airport,2011,7,250.4
+Sydney Airport,2011,8,40.8
+Sydney Airport,2011,9,55.2
+Sydney Airport,2011,10,47.6
+Sydney Airport,2011,11,151.8
+Sydney Airport,2011,12,113.39999999999999
+Sydney Airport,2012,1,110.60000000000001
+Sydney Airport,2012,2,138.0
+Sydney Airport,2012,3,199.4
+Sydney Airport,2012,4,121.0
+Sydney Airport,2012,5,29.2
+Sydney Airport,2012,6,198.20000000000002
+Sydney Airport,2012,7,53.4
+Sydney Airport,2012,8,12.600000000000001
+Sydney Airport,2012,9,20.0
+Sydney Airport,2012,10,23.400000000000002
+Sydney Airport,2012,11,39.8
+Sydney Airport,2013,1,147.0
+Sydney Airport,2013,3,57.4
+Sydney Airport,2013,4,161.0
+Sydney Airport,2013,5,62.2
+Sydney Airport,2013,6,305.6
+Sydney Airport,2013,7,32.4
+Sydney Airport,2013,8,15.6
+Sydney Airport,2013,9,69.80000000000001
+Sydney Airport,2013,10,16.4
+Sydney Airport,2013,11,181.2
+Sydney Airport,2013,12,57.800000000000004
+Sydney Airport,2014,1,11.8
+Sydney Airport,2014,2,58.0
+Sydney Airport,2014,3,153.4
+Sydney Airport,2014,4,72.6
+Sydney Airport,2014,5,19.6
+Sydney Airport,2014,6,110.4
+Sydney Airport,2014,7,12.0
+Sydney Airport,2014,8,256.4
+Sydney Airport,2014,9,41.800000000000004
+Sydney Airport,2014,10,124.19999999999999
+Sydney Airport,2014,11,13.6
+Sydney Airport,2014,12,119.2
+Sydney Airport,2015,1,120.0
+Sydney Airport,2015,2,48.0
+Sydney Airport,2015,3,52.8
+Sydney Airport,2015,4,343.59999999999997
+Sydney Airport,2015,5,89.8
+Sydney Airport,2015,6,94.8
+Sydney Airport,2015,7,48.4
+Sydney Airport,2015,8,60.00000000000001
+Sydney Airport,2015,9,67.2
+Sydney Airport,2015,10,29.4
+Sydney Airport,2015,11,84.2
+Sydney Airport,2015,12,67.2
+Sydney Airport,2016,1,262.8
+Sydney Airport,2016,2,40.4
+Sydney Airport,2016,3,155.8
+Sydney Airport,2016,4,81.0
+Sydney Airport,2016,5,13.399999999999999
+Sydney Airport,2016,6,279.4
+Sydney Airport,2016,7,114.2
+Sydney Airport,2016,8,131.4
+Sydney Airport,2016,9,67.8
+Sydney Airport,2016,10,34.2
+Sydney Airport,2016,11,26.8
+Sydney Airport,2016,12,58.4
+Sydney Airport,2017,1,48.4
+Sydney Airport,2017,2,158.0
+Sydney Airport,2017,3,232.2
+Sydney Airport,2017,4,94.4
+Sydney Airport,2017,5,31.799999999999997
+Sydney Airport,2017,6,106.4
+Townsville,2008,12,178.8
+Townsville,2009,1,653.8
+Townsville,2009,2,960.8000000000001
+Townsville,2009,3,18.8
+Townsville,2009,4,51.4
+Townsville,2009,5,6.3999999999999995
+Townsville,2009,6,0.4
+Townsville,2009,7,0.2
+Townsville,2009,8,0.0
+Townsville,2009,9,3.8000000000000003
+Townsville,2009,10,1.2
+Townsville,2009,11,24.0
+Townsville,2009,12,268.6
+Townsville,2010,1,543.2
+Townsville,2010,2,401.4
+Townsville,2010,3,218.6
+Townsville,2010,4,35.4
+Townsville,2010,5,0.2
+Townsville,2010,6,22.6
+Townsville,2010,7,1.7999999999999998
+Townsville,2010,8,54.199999999999996
+Townsville,2010,9,84.39999999999999
+Townsville,2010,10,51.599999999999994
+Townsville,2010,11,187.0
+Townsville,2010,12,406.0
+Townsville,2011,1,178.6
+Townsville,2011,2,334.0
+Townsville,2011,3,655.0
+Townsville,2011,5,23.4
+Townsville,2011,6,15.799999999999999
+Townsville,2011,7,1.0
+Townsville,2011,8,0.0
+Townsville,2011,9,0.0
+Townsville,2011,10,15.799999999999999
+Townsville,2011,11,18.4
+Townsville,2011,12,180.20000000000002
+Townsville,2012,1,266.2
+Townsville,2012,2,248.6
+Townsville,2012,3,556.2
+Townsville,2012,4,16.599999999999998
+Townsville,2012,5,69.6
+Townsville,2012,6,28.0
+Townsville,2012,7,105.6
+Townsville,2012,8,1.4
+Townsville,2012,9,0.0
+Townsville,2012,10,0.2
+Townsville,2012,11,7.8
+Townsville,2013,1,286.0
+Townsville,2013,3,104.60000000000001
+Townsville,2013,4,48.800000000000004
+Townsville,2013,5,29.0
+Townsville,2013,6,1.2
+Townsville,2013,7,4.0
+Townsville,2013,8,0.2
+Townsville,2013,9,0.6000000000000001
+Townsville,2013,10,8.8
+Townsville,2013,11,139.0
+Townsville,2013,12,9.4
+Townsville,2014,1,77.4
+Townsville,2014,2,376.8
+Townsville,2014,3,174.2
+Townsville,2014,4,214.2
+Townsville,2014,5,10.2
+Townsville,2014,6,56.2
+Townsville,2014,7,5.800000000000001
+Townsville,2014,8,49.6
+Townsville,2014,9,5.4
+Townsville,2014,10,2.4
+Townsville,2014,11,22.6
+Townsville,2014,12,42.4
+Townsville,2015,1,185.0
+Townsville,2015,2,31.8
+Townsville,2015,3,5.2
+Townsville,2015,4,14.600000000000001
+Townsville,2015,5,1.0
+Townsville,2015,6,15.399999999999999
+Townsville,2015,7,0.2
+Townsville,2015,8,3.2
+Townsville,2015,9,0.6000000000000001
+Townsville,2015,10,4.0
+Townsville,2015,11,26.0
+Townsville,2015,12,110.6
+Townsville,2016,1,76.6
+Townsville,2016,2,94.60000000000001
+Townsville,2016,3,558.0
+Townsville,2016,4,21.0
+Townsville,2016,5,0.4
+Townsville,2016,6,59.0
+Townsville,2016,7,53.2
+Townsville,2016,8,21.0
+Townsville,2016,9,17.4
+Townsville,2016,10,8.2
+Townsville,2016,11,11.0
+Townsville,2016,12,31.0
+Townsville,2017,1,164.20000000000002
+Townsville,2017,2,139.2
+Townsville,2017,3,166.0
+Townsville,2017,4,20.6
+Townsville,2017,5,166.4
+Townsville,2017,6,0.6
+Tuggeranong,2008,12,105.2
+Tuggeranong,2009,1,59.0
+Tuggeranong,2009,2,4.0
+Tuggeranong,2009,3,8.6
+Tuggeranong,2009,4,98.6
+Tuggeranong,2009,5,5.0
+Tuggeranong,2009,6,28.4
+Tuggeranong,2009,7,33.4
+Tuggeranong,2009,8,31.8
+Tuggeranong,2009,9,65.6
+Tuggeranong,2009,10,75.2
+Tuggeranong,2009,11,12.8
+Tuggeranong,2009,12,98.4
+Tuggeranong,2010,1,6.6
+Tuggeranong,2010,2,162.6
+Tuggeranong,2010,3,112.8
+Tuggeranong,2010,4,21.4
+Tuggeranong,2010,5,53.800000000000004
+Tuggeranong,2010,6,36.0
+Tuggeranong,2010,7,53.8
+Tuggeranong,2010,8,26.400000000000002
+Tuggeranong,2010,9,99.0
+Tuggeranong,2010,10,151.6
+Tuggeranong,2010,11,148.0
+Tuggeranong,2010,12,253.4
+Tuggeranong,2011,1,70.6
+Tuggeranong,2011,2,192.0
+Tuggeranong,2011,3,78.2
+Tuggeranong,2011,5,24.599999999999998
+Tuggeranong,2011,6,10.999999999999998
+Tuggeranong,2011,7,37.6
+Tuggeranong,2011,8,62.2
+Tuggeranong,2011,9,40.4
+Tuggeranong,2011,10,41.0
+Tuggeranong,2011,11,190.2
+Tuggeranong,2011,12,140.6
+Tuggeranong,2012,1,85.0
+Tuggeranong,2012,2,146.2
+Tuggeranong,2012,3,269.59999999999997
+Tuggeranong,2012,4,45.6
+Tuggeranong,2012,5,27.8
+Tuggeranong,2012,6,42.6
+Tuggeranong,2012,7,44.0
+Tuggeranong,2012,8,27.599999999999998
+Tuggeranong,2012,9,40.4
+Tuggeranong,2012,10,58.6
+Tuggeranong,2012,11,39.4
+Tuggeranong,2013,1,88.0
+Tuggeranong,2013,3,22.2
+Tuggeranong,2013,4,15.2
+Tuggeranong,2013,5,12.6
+Tuggeranong,2013,6,79.8
+Tuggeranong,2013,7,48.199999999999996
+Tuggeranong,2013,8,30.2
+Tuggeranong,2013,9,107.80000000000001
+Tuggeranong,2013,10,12.0
+Tuggeranong,2013,11,80.4
+Tuggeranong,2013,12,15.200000000000001
+Tuggeranong,2014,1,13.2
+Tuggeranong,2014,2,150.8
+Tuggeranong,2014,3,71.8
+Tuggeranong,2014,4,111.2
+Tuggeranong,2014,5,18.4
+Tuggeranong,2014,6,81.0
+Tuggeranong,2014,7,18.2
+Tuggeranong,2014,8,27.6
+Tuggeranong,2014,9,29.2
+Tuggeranong,2014,10,36.8
+Tuggeranong,2014,11,36.0
+Tuggeranong,2014,12,88.60000000000001
+Tuggeranong,2015,1,144.6
+Tuggeranong,2015,2,55.2
+Tuggeranong,2015,3,11.8
+Tuggeranong,2015,4,96.8
+Tuggeranong,2015,5,14.799999999999999
+Tuggeranong,2015,6,83.39999999999999
+Tuggeranong,2015,7,49.4
+Tuggeranong,2015,8,79.2
+Tuggeranong,2015,9,9.6
+Tuggeranong,2015,10,31.4
+Tuggeranong,2015,11,113.8
+Tuggeranong,2015,12,30.8
+Tuggeranong,2016,1,108.4
+Tuggeranong,2016,2,31.4
+Tuggeranong,2016,3,54.4
+Tuggeranong,2016,4,6.6
+Tuggeranong,2016,5,37.199999999999996
+Tuggeranong,2016,6,184.0
+Tuggeranong,2016,7,64.4
+Tuggeranong,2016,8,38.2
+Tuggeranong,2016,9,151.0
+Tuggeranong,2016,10,40.400000000000006
+Tuggeranong,2016,11,53.4
+Tuggeranong,2016,12,93.4
+Tuggeranong,2017,1,10.6
+Tuggeranong,2017,2,23.0
+Tuggeranong,2017,3,114.8
+Tuggeranong,2017,4,32.4
+Tuggeranong,2017,5,61.0
+Tuggeranong,2017,6,1.4000000000000001
+Uluru,2013,3,49.00000000000001
+Uluru,2013,4,0.0
+Uluru,2013,5,48.0
+Uluru,2013,6,16.6
+Uluru,2013,7,0.0
+Uluru,2013,8,0.0
+Uluru,2013,9,0.6
+Uluru,2013,10,0.0
+Uluru,2013,11,46.6
+Uluru,2013,12,15.2
+Uluru,2014,1,38.0
+Uluru,2014,2,57.6
+Uluru,2014,3,0.0
+Uluru,2014,4,81.4
+Uluru,2014,5,10.399999999999999
+Uluru,2014,6,0.0
+Uluru,2014,7,3.2
+Uluru,2014,8,0.0
+Uluru,2014,9,0.0
+Uluru,2014,10,0.0
+Uluru,2014,11,9.4
+Uluru,2014,12,47.6
+Uluru,2015,1,26.2
+Uluru,2015,2,5.4
+Uluru,2015,3,0.2
+Uluru,2015,4,1.2
+Uluru,2015,5,15.600000000000001
+Uluru,2015,6,0.0
+Uluru,2015,7,9.2
+Uluru,2015,8,1.4
+Uluru,2015,9,0.6000000000000001
+Uluru,2015,10,1.4
+Uluru,2015,11,0.8
+Uluru,2015,12,31.2
+Uluru,2016,1,2.2
+Uluru,2016,2,70.2
+Uluru,2016,3,29.000000000000004
+Uluru,2016,4,0.2
+Uluru,2016,5,74.6
+Uluru,2016,6,72.4
+Uluru,2016,7,21.400000000000002
+Uluru,2016,8,29.0
+Uluru,2016,9,15.600000000000001
+Uluru,2016,10,2.0
+Uluru,2016,11,1.4
+Uluru,2016,12,214.8
+Uluru,2017,1,66.8
+Uluru,2017,2,19.2
+Uluru,2017,3,0.0
+Uluru,2017,4,57.8
+Uluru,2017,5,0.4
+Uluru,2017,6,0.0
+Wagga Wagga,2009,1,28.8
+Wagga Wagga,2009,2,8.6
+Wagga Wagga,2009,3,14.799999999999999
+Wagga Wagga,2009,4,31.8
+Wagga Wagga,2009,5,8.2
+Wagga Wagga,2009,6,47.4
+Wagga Wagga,2009,7,36.2
+Wagga Wagga,2009,8,33.0
+Wagga Wagga,2009,9,33.2
+Wagga Wagga,2009,10,25.799999999999997
+Wagga Wagga,2009,11,27.4
+Wagga Wagga,2009,12,66.4
+Wagga Wagga,2010,1,7.0
+Wagga Wagga,2010,2,85.0
+Wagga Wagga,2010,3,176.0
+Wagga Wagga,2010,4,37.4
+Wagga Wagga,2010,5,68.2
+Wagga Wagga,2010,6,38.0
+Wagga Wagga,2010,7,74.4
+Wagga Wagga,2010,8,96.4
+Wagga Wagga,2010,9,65.0
+Wagga Wagga,2010,10,170.2
+Wagga Wagga,2010,11,50.6
+Wagga Wagga,2010,12,151.0
+Wagga Wagga,2011,1,28.4
+Wagga Wagga,2011,2,187.2
+Wagga Wagga,2011,3,63.8
+Wagga Wagga,2011,5,31.0
+Wagga Wagga,2011,6,23.4
+Wagga Wagga,2011,7,35.2
+Wagga Wagga,2011,8,49.00000000000001
+Wagga Wagga,2011,9,40.2
+Wagga Wagga,2011,10,18.8
+Wagga Wagga,2011,11,152.4
+Wagga Wagga,2011,12,70.2
+Wagga Wagga,2012,1,77.8
+Wagga Wagga,2012,2,47.8
+Wagga Wagga,2012,3,213.8
+Wagga Wagga,2012,4,7.800000000000001
+Wagga Wagga,2012,5,49.800000000000004
+Wagga Wagga,2012,6,29.599999999999998
+Wagga Wagga,2012,7,44.599999999999994
+Wagga Wagga,2012,8,37.6
+Wagga Wagga,2012,9,5.8
+Wagga Wagga,2012,10,30.6
+Wagga Wagga,2012,11,60.2
+Wagga Wagga,2013,1,13.0
+Wagga Wagga,2013,3,36.4
+Wagga Wagga,2013,4,7.2
+Wagga Wagga,2013,5,55.2
+Wagga Wagga,2013,6,97.39999999999999
+Wagga Wagga,2013,7,36.2
+Wagga Wagga,2013,8,47.6
+Wagga Wagga,2013,9,33.800000000000004
+Wagga Wagga,2013,10,12.600000000000001
+Wagga Wagga,2013,11,5.6
+Wagga Wagga,2013,12,21.4
+Wagga Wagga,2014,1,18.8
+Wagga Wagga,2014,2,42.2
+Wagga Wagga,2014,3,61.6
+Wagga Wagga,2014,4,63.4
+Wagga Wagga,2014,5,38.8
+Wagga Wagga,2014,6,87.6
+Wagga Wagga,2014,7,25.400000000000002
+Wagga Wagga,2014,8,9.8
+Wagga Wagga,2014,9,36.8
+Wagga Wagga,2014,10,20.4
+Wagga Wagga,2014,11,45.6
+Wagga Wagga,2014,12,27.8
+Wagga Wagga,2015,1,93.6
+Wagga Wagga,2015,2,13.600000000000001
+Wagga Wagga,2015,3,1.8
+Wagga Wagga,2015,4,57.800000000000004
+Wagga Wagga,2015,5,25.4
+Wagga Wagga,2015,6,100.0
+Wagga Wagga,2015,7,69.2
+Wagga Wagga,2015,8,89.39999999999999
+Wagga Wagga,2015,9,20.8
+Wagga Wagga,2015,10,17.2
+Wagga Wagga,2015,11,121.6
+Wagga Wagga,2015,12,37.6
+Wagga Wagga,2016,1,55.2
+Wagga Wagga,2016,2,16.2
+Wagga Wagga,2016,3,33.4
+Wagga Wagga,2016,4,10.8
+Wagga Wagga,2016,5,110.60000000000001
+Wagga Wagga,2016,6,84.6
+Wagga Wagga,2016,7,92.60000000000001
+Wagga Wagga,2016,8,58.8
+Wagga Wagga,2016,9,171.0
+Wagga Wagga,2016,10,64.0
+Wagga Wagga,2016,11,25.0
+Wagga Wagga,2016,12,42.2
+Wagga Wagga,2017,1,27.8
+Wagga Wagga,2017,2,18.0
+Wagga Wagga,2017,3,44.800000000000004
+Wagga Wagga,2017,4,32.4
+Wagga Wagga,2017,5,20.2
+Wagga Wagga,2017,6,2.8000000000000003
+Walpole,2009,1,6.4
+Walpole,2009,2,25.8
+Walpole,2009,3,31.8
+Walpole,2009,4,9.2
+Walpole,2009,5,104.4
+Walpole,2009,6,266.6
+Walpole,2009,7,197.2
+Walpole,2009,8,161.0
+Walpole,2009,9,68.2
+Walpole,2009,10,40.0
+Walpole,2009,11,62.800000000000004
+Walpole,2009,12,4.0
+Walpole,2010,1,14.799999999999999
+Walpole,2010,2,7.8
+Walpole,2010,3,22.0
+Walpole,2010,4,28.0
+Walpole,2010,5,86.8
+Walpole,2010,6,58.6
+Walpole,2010,7,165.2
+Walpole,2010,8,83.2
+Walpole,2010,9,60.199999999999996
+Walpole,2010,10,49.0
+Walpole,2010,11,37.4
+Walpole,2010,12,49.2
+Walpole,2011,1,107.6
+Walpole,2011,2,44.6
+Walpole,2011,3,9.6
+Walpole,2011,5,92.0
+Walpole,2011,6,152.0
+Walpole,2011,7,186.4
+Walpole,2011,8,88.6
+Walpole,2011,9,117.2
+Walpole,2011,10,133.8
+Walpole,2011,11,78.4
+Walpole,2011,12,56.0
+Walpole,2012,1,13.6
+Walpole,2012,2,17.0
+Walpole,2012,3,4.4
+Walpole,2012,4,78.6
+Walpole,2012,5,127.60000000000001
+Walpole,2012,6,273.4
+Walpole,2012,7,95.4
+Walpole,2012,8,0.0
+Walpole,2012,9,0.0
+Walpole,2012,10,27.6
+Walpole,2012,11,88.4
+Walpole,2013,1,18.8
+Walpole,2013,3,44.800000000000004
+Walpole,2013,4,49.0
+Walpole,2013,5,243.6
+Walpole,2013,6,114.4
+Walpole,2013,7,156.0
+Walpole,2013,8,257.6
+Walpole,2013,9,253.4
+Walpole,2013,10,59.0
+Walpole,2013,11,54.400000000000006
+Walpole,2013,12,24.0
+Walpole,2014,1,13.4
+Walpole,2014,2,15.0
+Walpole,2014,3,25.8
+Walpole,2014,4,48.6
+Walpole,2014,5,129.4
+Walpole,2014,6,113.2
+Walpole,2014,7,179.8
+Walpole,2014,8,94.6
+Walpole,2014,9,114.6
+Walpole,2014,10,77.8
+Walpole,2014,11,49.4
+Walpole,2014,12,24.6
+Walpole,2015,1,6.6000000000000005
+Walpole,2015,2,11.600000000000001
+Walpole,2015,3,40.0
+Walpole,2015,4,108.0
+Walpole,2015,5,106.00000000000001
+Walpole,2015,6,132.6
+Walpole,2015,7,150.8
+Walpole,2015,8,149.20000000000002
+Walpole,2015,9,79.0
+Walpole,2015,10,76.0
+Walpole,2015,11,27.599999999999998
+Walpole,2015,12,51.599999999999994
+Walpole,2016,1,89.6
+Walpole,2016,2,41.4
+Walpole,2016,3,33.4
+Walpole,2016,4,134.8
+Walpole,2016,5,151.0
+Walpole,2016,6,144.79999999999998
+Walpole,2016,7,194.4
+Walpole,2016,8,187.6
+Walpole,2016,9,142.8
+Walpole,2016,10,89.6
+Walpole,2016,11,24.400000000000002
+Walpole,2016,12,52.8
+Walpole,2017,1,12.6
+Walpole,2017,2,44.8
+Walpole,2017,3,90.8
+Walpole,2017,4,28.0
+Walpole,2017,5,115.8
+Walpole,2017,6,83.8
+Watsonia,2009,1,0.8
+Watsonia,2009,2,3.6
+Watsonia,2009,3,68.2
+Watsonia,2009,4,63.6
+Watsonia,2009,5,15.0
+Watsonia,2009,6,62.199999999999996
+Watsonia,2009,7,50.4
+Watsonia,2009,8,45.6
+Watsonia,2009,9,108.0
+Watsonia,2009,10,27.2
+Watsonia,2009,11,117.4
+Watsonia,2009,12,45.0
+Watsonia,2010,1,71.8
+Watsonia,2010,2,33.6
+Watsonia,2010,3,70.0
+Watsonia,2010,4,38.2
+Watsonia,2010,5,45.0
+Watsonia,2010,6,79.60000000000001
+Watsonia,2010,7,41.2
+Watsonia,2010,8,84.0
+Watsonia,2010,9,52.4
+Watsonia,2010,10,148.6
+Watsonia,2010,11,110.6
+Watsonia,2010,12,109.19999999999999
+Watsonia,2011,1,108.80000000000001
+Watsonia,2011,2,138.0
+Watsonia,2011,3,68.2
+Watsonia,2011,5,73.0
+Watsonia,2011,6,46.2
+Watsonia,2011,7,56.0
+Watsonia,2011,8,28.2
+Watsonia,2011,9,82.6
+Watsonia,2011,10,82.2
+Watsonia,2011,11,163.0
+Watsonia,2011,12,108.80000000000001
+Watsonia,2012,1,44.0
+Watsonia,2012,2,62.6
+Watsonia,2012,3,67.4
+Watsonia,2012,4,59.4
+Watsonia,2012,5,74.4
+Watsonia,2012,6,57.4
+Watsonia,2012,7,69.0
+Watsonia,2012,8,60.8
+Watsonia,2012,9,36.800000000000004
+Watsonia,2012,10,32.4
+Watsonia,2012,11,38.400000000000006
+Watsonia,2013,1,4.2
+Watsonia,2013,3,48.6
+Watsonia,2013,4,21.400000000000002
+Watsonia,2013,5,38.8
+Watsonia,2013,6,129.20000000000002
+Watsonia,2013,7,49.8
+Watsonia,2013,8,49.0
+Watsonia,2013,9,76.0
+Watsonia,2013,10,66.4
+Watsonia,2013,11,55.199999999999996
+Watsonia,2013,12,44.8
+Watsonia,2014,1,14.4
+Watsonia,2014,2,17.0
+Watsonia,2014,3,20.6
+Watsonia,2014,4,81.8
+Watsonia,2014,5,54.2
+Watsonia,2014,6,50.0
+Watsonia,2014,7,28.4
+Watsonia,2014,8,35.2
+Watsonia,2014,9,49.6
+Watsonia,2014,10,37.199999999999996
+Watsonia,2014,11,57.0
+Watsonia,2014,12,36.4
+Watsonia,2015,1,30.799999999999997
+Watsonia,2015,2,43.8
+Watsonia,2015,3,28.6
+Watsonia,2015,4,44.0
+Watsonia,2015,5,46.6
+Watsonia,2015,6,35.2
+Watsonia,2015,7,68.0
+Watsonia,2015,8,46.0
+Watsonia,2015,9,33.6
+Watsonia,2015,10,19.0
+Watsonia,2015,11,36.0
+Watsonia,2015,12,42.6
+Watsonia,2016,1,38.199999999999996
+Watsonia,2016,2,9.4
+Watsonia,2016,3,27.6
+Watsonia,2016,4,51.0
+Watsonia,2016,5,53.4
+Watsonia,2016,6,71.8
+Watsonia,2016,7,63.6
+Watsonia,2016,8,55.199999999999996
+Watsonia,2016,9,94.6
+Watsonia,2016,10,91.6
+Watsonia,2016,11,61.0
+Watsonia,2016,12,103.2
+Watsonia,2017,1,35.599999999999994
+Watsonia,2017,2,48.4
+Watsonia,2017,3,29.2
+Watsonia,2017,4,118.0
+Watsonia,2017,5,24.4
+Watsonia,2017,6,16.2
+Williamtown,2009,1,20.599999999999998
+Williamtown,2009,2,229.8
+Williamtown,2009,3,49.2
+Williamtown,2009,4,196.20000000000002
+Williamtown,2009,5,153.0
+Williamtown,2009,6,112.60000000000001
+Williamtown,2009,7,50.2
+Williamtown,2009,8,1.0
+Williamtown,2009,9,20.2
+Williamtown,2009,10,95.8
+Williamtown,2009,11,93.0
+Williamtown,2009,12,61.4
+Williamtown,2010,1,56.6
+Williamtown,2010,2,33.8
+Williamtown,2010,3,151.6
+Williamtown,2010,4,26.0
+Williamtown,2010,5,123.0
+Williamtown,2010,6,132.4
+Williamtown,2010,7,116.4
+Williamtown,2010,8,48.6
+Williamtown,2010,9,22.2
+Williamtown,2010,10,75.0
+Williamtown,2010,11,114.6
+Williamtown,2010,12,54.4
+Williamtown,2011,1,30.8
+Williamtown,2011,2,43.0
+Williamtown,2011,3,58.8
+Williamtown,2011,5,152.6
+Williamtown,2011,6,176.4
+Williamtown,2011,7,154.0
+Williamtown,2011,8,54.8
+Williamtown,2011,9,84.60000000000001
+Williamtown,2011,10,91.2
+Williamtown,2011,11,128.2
+Williamtown,2011,12,92.4
+Williamtown,2012,1,59.0
+Williamtown,2012,2,154.20000000000002
+Williamtown,2012,3,107.2
+Williamtown,2012,4,207.6
+Williamtown,2012,5,57.199999999999996
+Williamtown,2012,6,100.6
+Williamtown,2012,7,96.39999999999999
+Williamtown,2012,8,55.599999999999994
+Williamtown,2012,9,17.6
+Williamtown,2012,10,14.0
+Williamtown,2012,11,45.8
+Williamtown,2013,1,203.4
+Williamtown,2013,3,167.4
+Williamtown,2013,4,117.8
+Williamtown,2013,5,85.4
+Williamtown,2013,6,117.4
+Williamtown,2013,7,70.8
+Williamtown,2013,8,6.8
+Williamtown,2013,9,21.8
+Williamtown,2013,10,41.6
+Williamtown,2013,11,246.4
+Williamtown,2013,12,18.2
+Williamtown,2014,1,10.2
+Williamtown,2014,2,67.4
+Williamtown,2014,3,94.4
+Williamtown,2014,4,106.4
+Williamtown,2014,5,75.0
+Williamtown,2014,6,73.0
+Williamtown,2014,7,34.8
+Williamtown,2014,8,145.4
+Williamtown,2014,9,55.2
+Williamtown,2014,10,40.6
+Williamtown,2014,11,57.400000000000006
+Williamtown,2014,12,108.19999999999999
+Williamtown,2015,1,118.60000000000001
+Williamtown,2015,2,60.60000000000001
+Williamtown,2015,3,58.4
+Williamtown,2015,4,364.0
+Williamtown,2015,5,152.4
+Williamtown,2015,6,102.8
+Williamtown,2015,7,44.0
+Williamtown,2015,8,30.2
+Williamtown,2015,9,147.0
+Williamtown,2015,10,58.6
+Williamtown,2015,11,61.6
+Williamtown,2015,12,123.0
+Williamtown,2016,1,422.40000000000003
+Williamtown,2016,2,32.4
+Williamtown,2016,3,40.8
+Williamtown,2016,4,150.8
+Williamtown,2016,5,11.2
+Williamtown,2016,6,156.9
+Williamtown,2016,7,52.6
+Williamtown,2016,8,55.8
+Williamtown,2016,9,49.800000000000004
+Williamtown,2016,10,74.6
+Williamtown,2016,11,40.8
+Williamtown,2016,12,59.0
+Williamtown,2017,1,62.2
+Williamtown,2017,2,59.0
+Williamtown,2017,3,232.39999999999998
+Williamtown,2017,4,118.6
+Williamtown,2017,5,11.600000000000001
+Williamtown,2017,6,231.4
+Witchcliffe,2009,1,5.800000000000001
+Witchcliffe,2009,2,12.799999999999999
+Witchcliffe,2009,3,45.8
+Witchcliffe,2009,4,5.4
+Witchcliffe,2009,5,86.6
+Witchcliffe,2009,6,226.2
+Witchcliffe,2009,7,220.8
+Witchcliffe,2009,8,149.8
+Witchcliffe,2009,9,171.8
+Witchcliffe,2009,10,28.8
+Witchcliffe,2009,11,37.8
+Witchcliffe,2009,12,2.0
+Witchcliffe,2010,1,1.2
+Witchcliffe,2010,2,2.5999999999999996
+Witchcliffe,2010,3,10.4
+Witchcliffe,2010,4,76.6
+Witchcliffe,2010,5,162.2
+Witchcliffe,2010,6,115.6
+Witchcliffe,2010,7,227.2
+Witchcliffe,2010,8,125.8
+Witchcliffe,2010,9,48.0
+Witchcliffe,2010,10,37.6
+Witchcliffe,2010,11,32.6
+Witchcliffe,2010,12,17.2
+Witchcliffe,2011,1,0.0
+Witchcliffe,2011,2,1.0
+Witchcliffe,2011,3,6.4
+Witchcliffe,2011,5,123.2
+Witchcliffe,2011,6,142.4
+Witchcliffe,2011,7,241.0
+Witchcliffe,2011,8,178.4
+Witchcliffe,2011,9,142.2
+Witchcliffe,2011,10,58.6
+Witchcliffe,2011,11,45.4
+Witchcliffe,2011,12,16.2
+Witchcliffe,2012,1,5.8
+Witchcliffe,2012,2,6.8
+Witchcliffe,2012,3,1.4
+Witchcliffe,2012,4,132.0
+Witchcliffe,2012,5,122.6
+Witchcliffe,2012,6,267.2
+Witchcliffe,2012,7,82.60000000000001
+Witchcliffe,2012,8,169.0
+Witchcliffe,2012,9,164.6
+Witchcliffe,2012,10,41.0
+Witchcliffe,2012,11,61.800000000000004
+Witchcliffe,2013,1,15.2
+Witchcliffe,2013,3,45.8
+Witchcliffe,2013,4,29.6
+Witchcliffe,2013,5,253.6
+Witchcliffe,2013,6,175.8
+Witchcliffe,2013,7,273.0
+Witchcliffe,2013,8,209.20000000000002
+Witchcliffe,2013,9,224.6
+Witchcliffe,2013,10,51.4
+Witchcliffe,2013,11,33.2
+Witchcliffe,2013,12,4.6
+Witchcliffe,2014,1,3.6
+Witchcliffe,2014,2,3.2
+Witchcliffe,2014,3,33.4
+Witchcliffe,2014,4,22.6
+Witchcliffe,2014,5,156.0
+Witchcliffe,2014,6,204.0
+Witchcliffe,2014,7,252.2
+Witchcliffe,2014,8,160.6
+Witchcliffe,2014,9,61.6
+Witchcliffe,2014,10,35.2
+Witchcliffe,2014,11,46.6
+Witchcliffe,2014,12,2.4000000000000004
+Witchcliffe,2015,1,0.2
+Witchcliffe,2015,2,12.6
+Witchcliffe,2015,3,42.0
+Witchcliffe,2015,4,119.2
+Witchcliffe,2015,5,133.2
+Witchcliffe,2015,6,100.2
+Witchcliffe,2015,7,146.0
+Witchcliffe,2015,8,128.8
+Witchcliffe,2015,9,78.39999999999999
+Witchcliffe,2015,10,52.6
+Witchcliffe,2015,11,9.6
+Witchcliffe,2015,12,13.6
+Witchcliffe,2016,1,21.8
+Witchcliffe,2016,2,9.4
+Witchcliffe,2016,3,15.999999999999998
+Witchcliffe,2016,4,48.6
+Witchcliffe,2016,5,193.4
+Witchcliffe,2016,6,214.2
+Witchcliffe,2016,7,242.0
+Witchcliffe,2016,8,227.8
+Witchcliffe,2016,9,122.2
+Witchcliffe,2016,10,85.6
+Witchcliffe,2016,11,15.399999999999999
+Witchcliffe,2016,12,25.799999999999997
+Witchcliffe,2017,1,4.6
+Witchcliffe,2017,2,21.0
+Witchcliffe,2017,3,89.8
+Witchcliffe,2017,4,7.2
+Witchcliffe,2017,5,115.2
+Witchcliffe,2017,6,94.0
+Wollongong,2008,12,93.6
+Wollongong,2009,1,16.8
+Wollongong,2009,2,114.4
+Wollongong,2009,3,21.8
+Wollongong,2009,4,162.20000000000002
+Wollongong,2009,5,109.0
+Wollongong,2009,6,166.6
+Wollongong,2009,7,59.2
+Wollongong,2009,8,4.8
+Wollongong,2009,9,16.8
+Wollongong,2009,10,142.4
+Wollongong,2009,11,68.0
+Wollongong,2009,12,76.0
+Wollongong,2010,1,41.60000000000001
+Wollongong,2010,2,137.4
+Wollongong,2010,3,146.2
+Wollongong,2010,4,12.6
+Wollongong,2010,5,95.6
+Wollongong,2010,6,102.6
+Wollongong,2010,7,56.00000000000001
+Wollongong,2010,8,42.0
+Wollongong,2010,9,105.6
+Wollongong,2010,10,94.8
+Wollongong,2010,11,191.2
+Wollongong,2010,12,125.4
+Wollongong,2011,1,56.4
+Wollongong,2011,2,6.4
+Wollongong,2011,3,236.20000000000002
+Wollongong,2011,5,93.2
+Wollongong,2011,6,116.8
+Wollongong,2011,7,223.0
+Wollongong,2011,8,65.8
+Wollongong,2011,9,90.2
+Wollongong,2011,10,140.4
+Wollongong,2011,11,147.79999999999998
+Wollongong,2011,12,97.39999999999999
+Wollongong,2012,1,121.4
+Wollongong,2012,2,311.8
+Wollongong,2012,3,243.6
+Wollongong,2012,4,145.79999999999998
+Wollongong,2012,5,16.799999999999997
+Wollongong,2012,6,164.79999999999998
+Wollongong,2012,7,48.6
+Wollongong,2012,8,6.2
+Wollongong,2012,9,19.0
+Wollongong,2012,10,92.39999999999999
+Wollongong,2012,11,50.6
+Wollongong,2013,1,241.0
+Wollongong,2013,3,68.2
+Wollongong,2013,4,175.6
+Wollongong,2013,5,144.2
+Wollongong,2013,6,310.0
+Wollongong,2013,7,27.799999999999997
+Wollongong,2013,8,5.2
+Wollongong,2013,9,81.39999999999999
+Wollongong,2013,10,8.4
+Wollongong,2013,11,253.6
+Wollongong,2013,12,128.4
+Wollongong,2014,1,57.8
+Wollongong,2014,2,57.0
+Wollongong,2014,3,290.4
+Wollongong,2014,4,89.0
+Wollongong,2014,5,8.4
+Wollongong,2014,6,42.0
+Wollongong,2014,7,2.6
+Wollongong,2014,8,279.8
+Wollongong,2014,9,37.4
+Wollongong,2014,10,93.8
+Wollongong,2014,11,47.4
+Wollongong,2014,12,110.4
+Wollongong,2015,1,170.8
+Wollongong,2015,2,96.2
+Wollongong,2015,3,71.8
+Wollongong,2015,4,301.8
+Wollongong,2015,5,113.2
+Wollongong,2015,6,58.400000000000006
+Wollongong,2015,7,53.8
+Wollongong,2015,8,245.2
+Wollongong,2015,9,52.6
+Wollongong,2015,10,26.4
+Wollongong,2015,11,173.0
+Wollongong,2015,12,100.0
+Wollongong,2016,1,177.8
+Wollongong,2016,2,49.599999999999994
+Wollongong,2016,3,204.2
+Wollongong,2016,4,54.6
+Wollongong,2016,5,9.8
+Wollongong,2016,6,436.59999999999997
+Wollongong,2016,7,108.0
+Wollongong,2016,8,112.0
+Wollongong,2016,9,47.400000000000006
+Wollongong,2016,10,6.2
+Wollongong,2016,11,28.6
+Wollongong,2016,12,47.6
+Wollongong,2017,1,36.0
+Wollongong,2017,2,131.2
+Wollongong,2017,3,368.6
+Wollongong,2017,4,76.2
+Wollongong,2017,5,30.2
+Wollongong,2017,6,75.2
+Woomera,2009,1,0.0
+Woomera,2009,2,0.0
+Woomera,2009,3,8.0
+Woomera,2009,4,2.8
+Woomera,2009,5,22.0
+Woomera,2009,6,14.0
+Woomera,2009,7,11.6
+Woomera,2009,8,5.2
+Woomera,2009,9,12.6
+Woomera,2009,10,12.4
+Woomera,2009,11,46.0
+Woomera,2009,12,5.8
+Woomera,2010,1,3.8000000000000003
+Woomera,2010,2,31.8
+Woomera,2010,3,0.2
+Woomera,2010,4,55.0
+Woomera,2010,5,18.0
+Woomera,2010,6,4.8
+Woomera,2010,7,13.4
+Woomera,2010,8,28.4
+Woomera,2010,9,23.0
+Woomera,2010,10,36.8
+Woomera,2010,11,3.8000000000000003
+Woomera,2010,12,26.6
+Woomera,2011,1,0.4
+Woomera,2011,2,89.8
+Woomera,2011,3,17.8
+Woomera,2011,5,27.0
+Woomera,2011,6,0.4
+Woomera,2011,7,26.799999999999997
+Woomera,2011,8,6.4
+Woomera,2011,9,6.8
+Woomera,2011,10,16.6
+Woomera,2011,11,16.0
+Woomera,2011,12,14.200000000000001
+Woomera,2012,1,30.799999999999997
+Woomera,2012,2,18.599999999999998
+Woomera,2012,3,34.8
+Woomera,2012,4,0.0
+Woomera,2012,5,3.1999999999999997
+Woomera,2012,6,8.0
+Woomera,2012,7,4.8
+Woomera,2012,8,0.8
+Woomera,2012,9,0.0
+Woomera,2012,10,1.6
+Woomera,2012,11,14.6
+Woomera,2013,1,4.3999999999999995
+Woomera,2013,3,13.0
+Woomera,2013,4,9.6
+Woomera,2013,5,17.0
+Woomera,2013,6,38.4
+Woomera,2013,7,27.6
+Woomera,2013,8,6.8
+Woomera,2013,9,4.6
+Woomera,2013,10,7.6
+Woomera,2013,11,0.0
+Woomera,2013,12,3.6
+Woomera,2014,1,4.800000000000001
+Woomera,2014,2,17.2
+Woomera,2014,3,0.0
+Woomera,2014,4,51.2
+Woomera,2014,5,5.800000000000001
+Woomera,2014,6,3.6
+Woomera,2014,7,2.4
+Woomera,2014,8,0.6
+Woomera,2014,9,4.8
+Woomera,2014,10,0.0
+Woomera,2014,11,13.6
+Woomera,2014,12,11.2
+Woomera,2015,1,88.8
+Woomera,2015,2,0.0
+Woomera,2015,3,0.0
+Woomera,2015,4,23.799999999999997
+Woomera,2015,5,0.2
+Woomera,2015,6,8.200000000000001
+Woomera,2015,7,3.0
+Woomera,2015,8,14.600000000000001
+Woomera,2015,9,3.8
+Woomera,2015,10,1.0
+Woomera,2015,11,11.4
+Woomera,2015,12,3.8
+Woomera,2016,1,0.4
+Woomera,2016,2,15.2
+Woomera,2016,3,24.0
+Woomera,2016,4,1.0
+Woomera,2016,5,29.3
+Woomera,2016,6,56.7
+Woomera,2016,7,6.9
+Woomera,2016,8,27.6
+Woomera,2016,9,45.0
+Woomera,2016,10,10.4
+Woomera,2016,11,0.5
+Woomera,2016,12,14.899999999999999
+Woomera,2017,1,51.6
+Woomera,2017,2,0.0
+Woomera,2017,3,0.0
+Woomera,2017,4,40.7
+Woomera,2017,5,10.6
+Woomera,2017,6,0.2
